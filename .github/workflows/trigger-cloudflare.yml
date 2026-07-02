@@ -1,0 +1,28 @@
+name: Trigger Cloudflare Pages Deploy
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**/*.md'
+      - '**/*.png'
+      - '**/*.jpg'
+      - '**/*.jpeg'
+      - '**/*.gif'
+      - '**/*.webp'
+      - '**/*.svg'
+      - '**/*.pdf'
+      - '**/*.mp3'
+      - '**/*.mp4'
+      - '**/*.canvas'
+      - '.github/workflows/trigger-cloudflare.yml'
+
+jobs:
+  trigger-cloudflare:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger Cloudflare Pages deploy hook
+        run: |
+          curl -fsS -X POST "${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}"
