@@ -1,8 +1,26 @@
 ---
 title: "Unit 4 Natural Disasters - 单元知识专题"
+description: "围绕自然灾害报道、唐山地震语篇、限制性定语从句、灾害安全指引和摘要写作整理本单元阅读、单词、句子、语法和作文表达，作为本单元唯一保留的综合学习笔记。"
+aliases:
+  - "Natural Disasters 单元复习"
+tags:
+  - "学科/英语"
+  - "内容类型/章节笔记"
+  - "教材/英语必修第一册"
+  - "章节/Unit 4 Natural Disasters"
+  - "知识点/限制性定语从句"
+  - "知识点/摘要写作"
+  - "知识点/灾害安全"
+draft: false
 ---
 
 # Unit 4 Natural Disasters - 单元知识专题
+
+<!-- 图片描述：英语单元总复习工作纸风格的灾害知识网络图，中心为 Natural Disasters，分支连接 news facts、Tangshan narrative、relative clauses、safety instructions、summary 和 project；用“事实—影响—行动—概括”箭头组织内容，深蓝、墨绿主色、橙色突出安全动作。 -->
+
+## 知识关系导航
+
+本文件整合 Unit 4 的阅读语篇、单词短语、重点句子、语法讲解和作文表达，是本单元唯一保留的学习入口。学习时按“阅读理解 → 单词与句子 → 语法归纳 → 写作迁移”的顺序使用。
 
 ## 专题定位
 
@@ -25,7 +43,7 @@ title: "Unit 4 Natural Disasters - 单元知识专题"
 
 ## 核心词汇
 
-> 释义以教材与本单元语境为准；标 ★ 的为高频考点词。
+> 释义以教材与本单元语境为准；标 ★ 的为本单元语境重点词。
 
 | 单词 | 词性 | 英文释义 | 中文释义 | 单元例句 | 常见搭配 |
 | --- | --- | --- | --- | --- | --- |
@@ -66,6 +84,23 @@ title: "Unit 4 Natural Disasters - 单元知识专题"
 
 > 派生词补充：**destroy → destruction → destructive**；**injure → injury → injured**；**survive → survivor → survival**；**affect → effect → effective**；**revive → revival**；**unify → unity → united**；**wise → wisdom**；**erupt → eruption**。
 
+### 教材词汇补充：灾害类型、安全与报道
+
+| 词汇 | 语境义与搭配 |
+| --- | --- |
+| tornado / drought / landslide | n. 龙卷风；旱灾；滑坡；natural disasters |
+| slide / flood | v. 滑动；n./v. 洪水、淹没；slide down / a serious flood |
+| volcanic eruption / volcano / erupt | 火山喷发；火山；爆发；a volcanic eruption / a volcano erupts |
+| evacuate / helicopter | v. 疏散；n. 直升机；evacuate residents / arrive by helicopter |
+| death / gas / metal | n. 死亡；n. 气体；n. 金属；the number of deaths / smelly gas / pieces of metal |
+| context / suffer | n. 语境；v. 遭受、受苦；guess meaning from context / suffer damage |
+| supply / aid | n. 补给品；n. 援助；food supplies / foreign aid |
+| typhoon / hurricane | n. 台风；n. 飓风；a typhoon warning / a powerful hurricane |
+| power / tap / pipe / whistle | n. 电力；v./n. 轻敲；n. 管道；v./n. 吹口哨；power lines / tap on a pipe / whistle for help |
+| calm / kit | adj./v. 镇静；n. 成套设备；stay calm / an emergency kit |
+| wave / strike / deliver | n. 海浪；v. 袭击；v. 递送；huge waves / the quake struck / deliver supplies |
+| summary / effect / length | n. 摘要；n. 影响；n. 长度；write a summary / the effects of a disaster / the proper length |
+
 ## 核心短语与固定搭配
 
 | 短语 | 释义 | 例句（优先取自单元原文） | 用法提示 |
@@ -95,6 +130,15 @@ title: "Unit 4 Natural Disasters - 单元知识专题"
 | ★ make sure | 确保 | **Make sure** ... | 后接 of sth / that 从句。 |
 | ★ on hand | 在手边；现有 | ... having **on hand** enough water and food ... | = available。 |
 | ★ be known as | 作为……而闻名 | (复现) | 区别 be known for。 |
+
+### 听说与写作中的补充搭配
+
+- **in the open air** 在户外；**put up shelters in the open air**
+- **provide first aid** 提供急救；**a first aid kit** 急救箱
+- **call an emergency number** 拨打紧急电话；**listen to the news**
+- **collect water and food** 收集水和食物；**keep supplies on hand**
+- **be affected by** 受到……影响；**be damaged by** 被……损坏
+- **be swept away** 被冲走；**crash into** 撞上
 
 ## 重点句型
 
@@ -153,7 +197,7 @@ title: "Unit 4 Natural Disasters - 单元知识专题"
 The man              who      lives next door is a doctor.
 ```
 
-#### 二、关系词的选择（核心考点）
+#### 二、关系词的选择
 
 | 关系词 | 先行词 | 在从句中充当 | 例句 |
 | --- | --- | --- | --- |
@@ -163,7 +207,7 @@ The man              who      lives next door is a doctor.
 | **which** | 物 | 主语/宾语 | The supplies **which were provided** ... |
 | **that** | 人/物 | 主语/宾语 | a terrible experience **that my great-grandma cannot forget** |
 
-#### 三、只能用 that 的情况（高考高频）
+#### 三、只能用 that 的情况
 
 | 情况 | 例句 |
 | --- | --- |
@@ -196,6 +240,20 @@ The man              who      lives next door is a doctor.
 2. **意义**：whose 表示所属关系——"幸存者的家"。
 3. **使用**：whose 在从句中作定语，修饰 homes，不可省略。
 
+## 课文原文阅读
+
+> 以下保留教材 Reading and Thinking 的主阅读语篇。建议先按“震前征兆—地震发生—灾后惨状—救援重建”四个阶段通读，再进入逐句分析。
+
+### The Night the Earth Didn’t Sleep
+
+Strange things were happening in the countryside of northeastern Hebei. For several days, the water in the village wells rose and fell, rose and fell. There were deep cracks that appeared in the well walls. At least one well had some smelly gas coming out of it. Chickens and even pigs were too nervous to eat, and dogs refused to go inside buildings. Mice ran out of the fields looking for places to hide, and fish jumped out of the water. At about 3:00 a.m., on 28 July 1976, bright lights were seen in the sky outside the city of Tangshan and loud noises were heard. But the city’s one million people were asleep as usual that night.
+
+At 3:42 a.m., everything began to shake. It seemed as if the world were coming to an end! Eleven kilometres directly below the city, one of the most deadly earthquakes of the 20th century had begun, a quake that even caused damage more than 150 kilometres away in Beijing. Nearly one third of the whole nation felt it! A huge crack, eight kilometres long and 30 metres wide, cut across houses, roads, and waterways. Hard hills of rock became rivers of dirt. In less than one minute, a large city lay in ruins. Two thirds of the people who lived there were dead or injured. Thousands of children were left without parents. The number of people who were killed or badly injured in the quake was more than 400,000.
+
+Everywhere survivors looked, there was nothing but ruins. Nearly everything in the city was destroyed. About 75 percent of the city’s factories and buildings, 90 percent of its homes, and all of its hospitals were gone. Bricks covered the ground like red autumn leaves, but no wind could blow them away. Most bridges had fallen or were not safe to cross. The railway tracks were now useless pieces of metal. Tens of thousands of cows, hundreds of thousands of pigs, and millions of chickens were dead. Sand now filled the wells instead of water. People were in shock—and then, later that afternoon, another big quake shook Tangshan again. Even more buildings fell down. Water, food, and electricity were hard to get. People began to wonder how long the disaster would last.
+
+But hope was not lost. Soon after the quakes, the army sent 150,000 soldiers to Tangshan to dig out those who were trapped and to bury the dead. More than 10,000 doctors and nurses came to provide medical care. Workers built shelters for survivors whose homes had been destroyed. Hundreds of thousands of people were helped. Water and food were brought into the city by train, truck, and plane. Slowly, the city began to breathe again. Tangshan started to revive itself and get back up on its feet. With strong support from the government and the tireless efforts of the city’s people, a new Tangshan was built upon the earthquake ruins. The new city has become a home to more than seven million people, with great improvements in transportation, industry, and environment. Tangshan city has proved to China and the rest of the world that in times of disaster, people must unify and show the wisdom to stay positive and rebuild for a brighter future.
+
 ## 单元阅读语篇深度解读
 
 ### 语篇 The Night the Earth Didn't Sleep 整体解读
@@ -218,7 +276,7 @@ The man              who      lives next door is a doctor.
 | Para 3 | 震后惨状（满目疮痍） | ruins; destroyed; bricks; in shock; hard to get |
 | Para 4 | 救援与重建（希望） | army; dig out; shelters; revive; unify; wisdom |
 
-### 关键写作手法（本语篇是高考"文学性阅读"的范本）
+### 关键写作手法（本语篇的表达特点）
 
 1. **拟人（personification）**：
    - 标题 "The Night **the Earth Didn't Sleep**"——把地球拟人化，暗示灾难之夜。
@@ -240,7 +298,7 @@ The man              who      lives next door is a doctor.
 - "ruin"：从上下文"a large city lay in ruins / Nearly everything was destroyed"可推断 = 废墟、毁灭。
 - "trap"：从"dig out those who were trapped"可推断 = 困住。
 
-## 逐句解读
+## 逐句分析与解读
 
 > 选自 The Night the Earth Didn't Sleep（唐山大地震）。每句给出：**原句 / 翻译 / 语言点 / 难点提示**。
 
@@ -488,27 +546,24 @@ The man              who      lives next door is a doctor.
   - **stay positive** 保持积极。
 - 难点：★ 长句：宾语从句 + 不定式作定语 + 并列动词。
 
-## 易错点整理
+## 作文写作与表达素材
 
-| # | 错误形式 | 正确形式 | 错因 | 防错提醒 |
-| --- | --- | --- | --- | --- |
-| 1 | This is the most beautiful city **which** I have ever seen. | This is the most beautiful city **that** I have ever seen. | 最高级修饰先行词应用 that。 | 先行词被最高级/序数词/the only 修饰时用 that。 |
-| 2 | All **what** I want is peace. | All **that** I want is peace. | all 后误用 what。 | 先行词是不定代词时用 that，不用 which/what。 |
-| 3 | The number of students **are** 50. | The number of students **is** 50. | 主谓一致错。 | The number of + 复数名词，谓语用单数。 |
-| 4 | A number of students **is** playing. | A number of students **are** playing. | 主谓一致错。 | A number of + 复数名词，谓语用复数。 |
-| 5 | Two thirds of the city **were** destroyed. | Two thirds of the city **was** destroyed. | 分数主谓一致错。 | 分数 + of + 单数名词，谓语用单数；+ 复数名词用复数。 |
-| 6 | The boy **who** I work with him is kind. | The boy **(whom)** I work with is kind. | 关系代词与宾语重复。 | 关系代词作宾语时不能再用代词。 |
-| 7 | The doctor **with who** James worked died. | The doctor **with whom** James worked died. | 介词后误用 who。 | 介词 + whom（人）/ which（物），不用 who/that。 |
-| 8 | It seemed as if the world **was** coming to an end.（语境：与事实相反） | It seemed as if the world **were** coming to an end. | as if 后虚拟语气 be 动词误用 was。 | 正式/文学体中 be 动词用 were。 |
-| 9 | Chickens were **too nervous to eating**. | Chickens were **too nervous to eat**. | too ... to 后误用 doing。 | too ... to + 动词原形。 |
-| 10 | The city **lied** in ruins. | The city **lay** in ruins. | lie（躺）过去式误用。 | lie（躺/位于）lay/lain；lie（说谎）lied/lied；lay（放置）laid/laid。 |
-| 11 | The earthquake **effected** the city. | The earthquake **affected** the city. | affect / effect 词性混淆。 | affect（v. 影响）；effect（n. 影响）。 |
-| 12 | He was **trapped in** the room 3 days.（漏介词） | He was **trapped in** the room **for** 3 days. | 漏时间段介词。 | 表段时间用 for。 |
-| 13 | **The deads** were buried. | **The dead** were buried. | the + 形容词误加 s。 | the + 形容词表一类人，谓语复数，但形容词不加 s。 |
-| 14 | It is hard **to get it**.（主语为事物时） | Water is hard **to get**. | 主语是事物时多用主动表被动。 | be hard/difficult to do，不用被动。 |
-| 15 | **Comparing with** Beijing, Tangshan is smaller. | **Compared with** Beijing, Tangshan is smaller. | compare 误用现在分词。 | 作状语用过去分词 compared with / to。 |
+### 教材写作示例原文：Tsunami Hits Asia
 
-## 写作素材与表达积累
+**The Daily News**
+
+**Tsunami Hits Asia: Over 6,500 Dead**
+**By Robert Woodhouse, Monday, 27 December 2004**
+
+The most powerful earthquake in the past 40 years caused a tsunami that crashed into coastlines across Asia yesterday, killing more than 6,500 people in Indonesia, India, Thailand, Malaysia, and at least four other countries. Fishermen, tourists, hotels, homes, and cars were swept away by huge waves caused by the strong earthquake that reached a magnitude of 9.0. The undersea quake struck around 7:00 a.m. Sunday off the west coast of Indonesia’s Sumatra Island. In that area alone, at least 1,870 people were killed.
+
+In Sri Lanka, some 1,600 kilometres west of the quake centre, the number of deaths stood at 2,498, and one million more were affected by the tsunami, government officials said. Indian officials said as many as 1,900 had been killed along the southern coast. Another 254 were found dead in Thailand and 54 in three other countries. In southern Thailand, 1,900 people were hurt and many more were missing, local officials said.
+
+“I was having breakfast with my three children when water started filling my home. We had to leave everything and run to safety,” said Chandra Theeravit, a local Thai woman. Thousands of people are still missing, and the number of deaths is expected to grow even higher over the next few days. Foreign aid is being organised for the tsunami-hit countries. However, dangerous conditions and damaged roads will make it difficult to deliver food and supplies.
+
+### 教材摘要示例
+
+On 26 December 2004, a tsunami killed more than 6,500 tourists, fishermen, and other locals in Asia. Thousands of people are missing and the number of deaths is expected to grow. The damage caused by the tsunami is making it difficult for rescue workers to help the survivors.
 
 本单元写作任务是 **summary writing（摘要写作）**。摘要要求用约 **原文三分之一** 的篇幅，概括文章的**主要观点和最重要信息**，不展开细节和例子。
 
@@ -566,112 +621,22 @@ The man              who      lives next door is a doctor.
 - 表对比：but, however, while, whereas
 - 表总结：in short, in a word, to sum up
 
-## 专题练习
+## 重点与易错点
 
-### 一、词汇与短语（基础）
+### 本单元重点
 
-1. 用所给词的正确形式填空（destroy / injure / survive / trap / affect / rescue / revive / unify）。
+- **语篇主线**：文章按“震前异常—地震发生—城市毁坏—救援重建”推进，事实数据、拟人和比喻共同增强了灾难叙事的现场感。
+- **语法主线**：限制性定语从句用关系词补充限定信息；理解先行词、从句成分和关系词功能，比机械背诵关系词更重要。
+- **写作主线**：摘要只保留日期、地点、事件、影响和后续结果，用自己的话压缩，不展开例子和次要细节。
 
-   (1) Nearly everything in the city was ________.
-   (2) Two thirds of the people were dead or ________.
-   (3) The ________ looked everywhere, but there was nothing but ruins.
-   (4) Soldiers came to dig out those who were ________.
-   (5) The earthquake ________ an area of several hundred square kilometres.
-   (6) The team ________ a boy from the fallen building.
-   (7) Tangshan started to ________ itself.
-   (8) In times of disaster, people must ________.
+### 易错辨析
 
-2. 选用方框中的短语填空（每个限用一次）。
-
-   `lie in ruins`　`too ... to ...`　`as if`　`nothing but`　`dig out`　`in shock`　`the number of`　`stay calm`
-
-   (1) After the earthquake, the whole city ________.
-   (2) He was ________ tired ________ walk.
-   (3) It seemed ________ the world were coming to an end.
-   (4) Everywhere I looked, there was ________ ruins.
-   (5) Soldiers worked hard to ________ those who were trapped.
-   (6) People were ________ after the disaster.
-   (7) ________ people killed was more than 400,000.
-   (8) The most important thing is to ________ in an emergency.
-
-### 二、语法（巩固）
-
-3. 用合适的关系词填空（that / which / who / whom / whose，可省略处用 "/"）。
-
-   (1) The Tangshan earthquake was a terrible experience ________ my great-grandma cannot forget.
-   (2) The couple ________ live next to us volunteered to help.
-   (3) Workers built shelters for survivors ________ homes had been destroyed.
-   (4) A doctor with ________ James used to work died in the earthquake.
-   (5) This is the best film ________ I have ever seen.
-   (6) All ________ I want is peace.
-   (7) The supplies ________ were provided to the disaster area came from all over the country.
-
-4. 判断正误并改正。
-
-   (1) This is the most beautiful city which I have ever visited.
-   (2) The number of students are 50.
-   (3) Two thirds of the city were destroyed.
-
-### 三、句型与写作（提升）
-
-5. 用 too ... to ... 改写：The box is very heavy. I can't carry it.（合并为一句）
-
-6. 用定语从句合并：The man is my uncle. He lives next door.（合并为一句）
-
-7. 为 The Night the Earth Didn't Sleep 写一段约 60 词的摘要（summary）。要求：
-   - 包含摘要五要素（date / time / place / event / effect 或后续）；
-   - 篇幅约为原文 1/3 的精简版（此处缩至 60 词左右）；
-   - 用过去时；
-   - 至少使用 5 个本单元词汇或短语。
-
-## 练习答案与解析
-
-### 一、词汇与短语
-
-1. (1) **destroyed**（be destroyed 被摧毁）。
-   (2) **injured**（dead or injured 非死即伤）。
-   (3) **survivors**（幸存者，复数）。
-   (4) **trapped**（be trapped 被困）。
-   (5) **affected**（affect 影响/袭击）。
-   (6) **rescued**（rescue 营救）。
-   (7) **revive**（revive 复苏）。
-   (8) **unify**（unify 团结）。
-
-2. (1) **lay in ruins**（成为废墟，lie 的过去式 lay）。
-   (2) **too ... to**（太……而不能）。
-   (3) **as if**（仿佛，引导方式状语从句）。
-   (4) **nothing but**（只、只不过）。
-   (5) **dig out**（挖出）。
-   (6) **in shock**（震惊地）。
-   (7) **The number of**（……的数目，谓语单数）。
-   (8) **stay calm**（保持冷静）。
-
-### 二、语法
-
-3. (1) **that / /**（先行词 experience 是物，关系代词作 forget 的宾语，可省）。
-   (2) **who**（先行词 couple 是人，作从句主语，不可省）。
-   (3) **whose**（先行词 survivors，whose 表"幸存者的"，作定语）。
-   (4) **whom**（先行词 doctor 是人，作 with 的宾语；介词后用 whom）。
-   (5) **that**（先行词 film 被最高级 the best 修饰，只能用 that）。
-   (6) **that**（先行词 All 是不定代词，只能用 that）。
-   (7) **which / that**（先行词 supplies 是物，作主语）。
-
-4. (1) **错**。改正：This is the most beautiful city **that** I have ever visited.（解析：先行词被最高级修饰，只能用 that。）
-   (2) **错**。改正：The number of students **is** 50.（解析：The number of + 复数名词，谓语用单数。）
-   (3) **错**。改正：Two thirds of the city **was** destroyed.（解析：分数 + of + 单数名词 city，谓语用单数。）
-
-### 三、句型与写作
-
-5. The box is **too heavy for me to carry**.
-   （解析：too + 形容词 + (for sb) + to do，表"太……而不能"。）
-
-6. The man **who lives next door is my uncle**.
-   （解析：用 who 引导限制性定语从句，who 作从句主语，不可省。）
-
-7. 参考摘要：
-
-> **Summary**
->
-> **On 28 July 1976**, **at 3:42 a.m.**, **a deadly earthquake struck Tangshan**, China. Strange things had happened before the quake, but no one was prepared. In less than one minute, the whole city **lay in ruins**, and more than 400,000 people were killed or **injured**. Soon after, the army sent soldiers to **dig out** those who were **trapped**, and workers built **shelters** for survivors. With strong support, Tangshan **revived** and a new city was rebuilt, proving that in times of disaster, people must **unify** and **stay positive**.
-
-（点评：包含摘要五要素（date / time / place / event / effect + 后续）；用过去时；使用 lay in ruins / injured / dig out / trapped / shelters / revived / unify / stay positive 等单元词汇；篇幅精简。）
+| 易错形式 | 正确表达 | 判断依据 |
+| --- | --- | --- |
+| The number of people were ... | The number of people was ... | the number of 表示“……的数目”，中心词 number 为单数。 |
+| A number of people was ... | A number of people were ... | a number of 表示“许多”，后面的复数名词决定谓语用复数。 |
+| lie / lay 混用 | lie—lay—lain；lay—laid—laid | lie 表示“处于、躺”，过去式是 lay；lay 表示“放置”，过去式和过去分词都是 laid。 |
+| the people which ... | the people who ... | 先行词 people 指人，作主语时通常用 who。 |
+| the reason because ... | the reason why ... / the reason that ... | reason 后的限制性定语从句可用 why 或 that，because 不直接充当关系词。 |
+| as if the world was coming ... | as if the world were coming ... | 与现在事实相反的假设中，be 动词通常用 were。 |
+| two third of people | two thirds of the people | 分子大于 1 时，序数词分母用复数。 |

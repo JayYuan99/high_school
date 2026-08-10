@@ -1,12 +1,30 @@
 ---
 title: "Unit 3 Sports and Fitness - 单元知识专题"
+description: "围绕体育赛事、运动员品质、反意疑问句、体育精神和健康变化写作整理本单元阅读、单词、句子、语法和作文表达，作为本单元唯一保留的综合学习笔记。"
+aliases:
+  - "Sports and Fitness 单元复习"
+tags:
+  - "学科/英语"
+  - "内容类型/章节笔记"
+  - "教材/英语必修第一册"
+  - "章节/Unit 3 Sports and Fitness"
+  - "知识点/反意疑问句"
+  - "知识点/体育精神"
+  - "知识点/健康变化写作"
+draft: false
 ---
 
 # Unit 3 Sports and Fitness - 单元知识专题
 
+<!-- 图片描述：英语单元总复习工作纸风格的体育知识网络图，中心为 Sports and Fitness，分支连接 events、living legends、tag questions、sportsmanship、wellness writing 和 survey；用证据箭头展示“人物行为—体育精神—个人变化”，深蓝、墨绿主色、橙色突出语法和对比表达。 -->
+
+## 知识关系导航
+
+本文件整合 Unit 3 的阅读语篇、单词短语、重点句子、语法讲解和作文表达，是本单元唯一保留的学习入口。学习时按“阅读理解 → 单词与句子 → 语法归纳 → 写作迁移”的顺序使用。
+
 ## 专题定位
 
-本专题围绕人教版高中英语必修第一册 **Unit 3 Sports and Fitness**（体育运动与健康）整理。解决的核心问题是：**把单元里散落在听力、阅读、语法、写作各栏目的语言点串成一张可复习、可迁移的知识网**，帮助你系统回顾体育话题下的词汇、反意疑问句（tag questions）这一高考高频语法、人物传记类阅读（Living Legends）的解读方法，以及"健康日记"（a page in a wellness book）的写作套路。
+本专题围绕人教版高中英语必修第一册 **Unit 3 Sports and Fitness**（体育运动与健康）整理。解决的核心问题是：**把单元里散落在听力、阅读、语法、写作各栏目的语言点串成一张可复习、可迁移的知识网**，帮助你系统回顾体育话题下的词汇、反意疑问句（tag questions）这一核心语法、人物传记类阅读（Living Legends）的解读方法，以及"健康日记"（a page in a wellness book）的写作套路。
 
 适用阶段：
 
@@ -25,7 +43,7 @@ title: "Unit 3 Sports and Fitness - 单元知识专题"
 
 ## 核心词汇
 
-> 释义以教材与本单元语境为准；标 ★ 的为高频考点词。
+> 释义以教材与本单元语境为准；标 ★ 的为本单元语境重点词。
 
 | 单词 | 词性 | 英文释义 | 中文释义 | 单元例句 | 常见搭配 |
 | --- | --- | --- | --- | --- | --- |
@@ -65,6 +83,24 @@ title: "Unit 3 Sports and Fitness - 单元知识专题"
 
 > 派生词补充：**honour → honourable**；**glory → glorious**；**determine → determination**；**injure → injury → injured**；**fail → failure**；**strong → strength → strengthen**；**grace → graceful → gracefully**；**compete → competition → competitor → competitive**；**health → healthy → fitness → fit**。
 
+### 教材词汇补充：运动项目与健康表达
+
+| 词汇 | 语境义与搭配 |
+| --- | --- |
+| soccer / stadium | n. 足球；n. 体育场；play soccer / a crowded stadium |
+| boxing / badminton / marathon | n. 拳击；羽毛球；马拉松；sports events |
+| come along | 跟随；进步；Come along and work out! |
+| ski / host | v. 滑雪；v./n. 主办、主持人；a skiing event / host a competition |
+| track / track and field | n. 跑道；田径；run on the track / track-and-field events |
+| gym / gymnastics | n. 健身房；n. 体操；work out at a gym / gymnastics training |
+| make it | 成功；准时到达；I hope we can make it. |
+| legend | n. 传奇人物；a living legend |
+| apart | adv. 分开；fall apart / stand apart |
+| million | num. 一百万；millions of people |
+| now and then | 有时；偶尔；have a burger now and then |
+| push-up / jog | n. 俯卧撑；v./n. 慢跑；do push-ups / go jogging |
+| error | n. 错误；correct a spelling error |
+
 ## 核心短语与固定搭配
 
 | 短语 | 释义 | 例句（优先取自单元原文） | 用法提示 |
@@ -96,6 +132,16 @@ title: "Unit 3 Sports and Fitness - 单元知识专题"
 | ★ lose weight | 减肥 | If you want to **lose weight**, too ... | 反义 put on / gain weight。 |
 | ★ go bananas | 发疯；抓狂 | I almost **went bananas**, too. | 习语，go + 形容词表"变成……状态"。 |
 | ★ have a go (at sth) | 尝试 | Would you like to **have a go at** karst climbing? | = have a try。 |
+
+### 听说与写作中的补充搭配
+
+- **come along** 跟随或进步；**come along to the stadium**
+- **make it** 成功或准时到达；**make it to the final**
+- **set an example** 树立榜样；**set a good example for others**
+- **make sense** 有道理；**It makes sense to warm up first.**
+- **even if / even though** 即使；即便；**even if you fail**
+- **deal with stress** 处理压力；**plan work and rest**
+- **put on weight / lose weight** 增重 / 减重；**a balanced diet**
 
 ## 重点句型
 
@@ -146,7 +192,7 @@ title: "Unit 3 Sports and Fitness - 单元知识专题"
 
 ### 本单元语法焦点：反意疑问句（Tag Questions）
 
-反意疑问句是**附在陈述句后的简短疑问**，用于请求确认或寻求认同，是本单元的核心语法，也是高考口语与写作中的高频功能句。
+反意疑问句是**附在陈述句后的简短疑问**，用于请求确认或寻求认同，是本单元的核心语法，也是口语与写作中的高频功能句。
 
 #### 一、基本构成原则
 
@@ -158,7 +204,7 @@ title: "Unit 3 Sports and Fitness - 单元知识专题"
 | 否定陈述 | 肯定疑问 | It's not a real sport, **is it**? |
 | 含 never/hardly/few/little 等否定词 | 肯定疑问 | He never comes late, **does he**? |
 
-#### 二、特殊情况（高考高频考点）
+#### 二、特殊情况与实际使用
 
 | 主句特征 | 附加疑问形式 | 例句 |
 | --- | --- | --- |
@@ -188,6 +234,24 @@ title: "Unit 3 Sports and Fitness - 单元知识专题"
 | --- | --- | --- |
 | **升调 ↗** | 真的不确定，在询问 | You've lost some **weight** ↗, haven't you?（不确定，想确认） |
 | **降调 ↘** | 已知答案，在寻求认同 | Wonderful **gym** ↘, isn't it?（觉得很棒，希望对方附和） |
+
+## 课文原文阅读
+
+> 以下保留教材 Reading and Thinking 的主阅读语篇。阅读时先根据标题和人物信息预测内容，再观察文章如何用事实、行为和评价塑造“体育传奇”。
+
+### Living Legends of Sports
+
+Help us choose some “Living Legends of Sports”. They must be athletes who are masters in their sports and also set good examples for others. Here are our first two choices.
+
+### Lang Ping
+
+As a player, Lang Ping brought honour and glory to her country. As a coach, she led the China women’s volleyball team to medals at world championships and the Olympics. As a person, Lang Ping is loved by fans at home and abroad. When the Chinese team was preparing for the 2015 World Cup, her determination was tested. The team that Lang Ping had built was falling apart. One of the best players had been injured, and the team captain had to leave because of heart problems. Losing two important players was a big challenge, but Lang Ping did not lose heart. She had faced difficulties before, and she knew that her young players could win if they worked together as a team. Two weeks later, they were world champions! Then in 2016, Lang Ping led her volleyball team to Olympic gold in Brazil.
+
+### Michael Jordan
+
+When Michael Jordan’s feet left the ground, time seemed to stand still. The player who became known as “Air Jordan” changed basketball with his graceful moves and jumps. Jordan’s skills were impressive, but the mental strength that he showed made him unique. In the final seconds of a game, Jordan always seemed to find a way to win. Jordan says that the secret to his success is learning from his failures. “I can accept failure; everyone fails at something. But I can’t accept not trying.” Losing games taught him to practise harder and never give up. In life, Jordan has learnt to share his success with others. The Boys and Girls Club which he started in Chicago has been helping young people since 1996.
+
+Send your suggestions for “Living Legends of Sports” to LLS@sports.net.
 
 ## 单元阅读语篇深度解读
 
@@ -221,7 +285,7 @@ title: "Unit 3 Sports and Fitness - 单元知识专题"
 
 本单元训练的阅读策略是**读前预测**：通过标题、图片、已有知识预测文章内容，激活背景知识，降低理解难度。例如看到 "Living Legends" + 两人照片，可预测文章会介绍两位伟大运动员及其成就。
 
-## 逐句解读
+## 逐句分析与解读
 
 > 选自 Living Legends（Lang Ping + Michael Jordan）与 Going Positive（写作范文）。每句给出：**原句 / 翻译 / 语言点 / 难点提示**。
 
@@ -438,27 +502,15 @@ title: "Unit 3 Sports and Fitness - 单元知识专题"
   - **both happier and healthier** both ... and ... 连接两个比较级。
 - 难点：★ By + 动名词表方式；both ... and ... 并列结构。
 
-## 易错点整理
+## 作文写作与表达素材
 
-| # | 错误形式 | 正确形式 | 错因 | 防错提醒 |
-| --- | --- | --- | --- | --- |
-| 1 | You didn't go, did you? — **Yes, I didn't**. | — **No, I didn't**.（事实是没去） | 中英回答习惯相反。 | Yes 永远接肯定，No 永远接否定，以事实为准。 |
-| 2 | I am late, **am not I**? | I am late, **aren't I**? | I am 的反意疑问特殊。 | I am → aren't I（固定）。 |
-| 3 | Let's go, **will we**? | Let's go, **shall we**? | Let's 的反意疑问误用。 | Let's ... → shall we?；Let us ... → will you? |
-| 4 | He never comes late, **doesn't he**? | He never comes late, **does he**? | 含否定词的句子误用"前肯后否"。 | never/hardly/few/little 视为否定，后接肯定。 |
-| 5 | He used to smoke, **used he**?（不规范） | He used to smoke, **didn't he**? | used to 的反意疑问形式。 | 口语常用 didn't he；正式可用 usedn't he。 |
-| 6 | The secret **of** his success is ... | The secret **to** his success is ... | 介词搭配错。 | the secret / key / answer **to** + 名词。 |
-| 7 | I can't accept **not to try**. | I can't accept **not trying**. | 动名词否定形式误用。 | accept doing；否定为 not doing。 |
-| 8 | He is **impressive at** his skills. | His skills **are impressive**. / He is **impressed by** his skills. | -ing/-ed 主语混淆。 | -ing 描述事物；-ed 描述人。 |
-| 9 | **Rather than to watch** TV, I read. | **Rather than watch** TV, I read. | rather than 后误加 to。 | rather than 后接动词原形（前后对称）。 |
-| 10 | I stopped **to compare** myself with ... | I stopped **comparing** myself with ... | stop to do / doing 混淆。 | stop doing 停止做；stop to do 停下来去做。 |
-| 11 | He **failed the exam** in.（漏介词） | He **failed in** the exam. / He **failed** the exam. | fail 搭配错。 | fail (an exam) 或 fail in (an exam)。 |
-| 12 | She was **injured in** her leg.（中式） | She **injured her leg**. / Her leg **was injured**. | 受伤表达不自然。 | injure + 身体部位（及物）。 |
-| 13 | He **pretended falling** down. | He **pretended to fall** down. | pretend 后误用 doing。 | pretend to do（不用 doing）。 |
-| 14 | **Compare with** her, I am taller.（误作介词） | **Compared with** her, I am taller. | compare 误用现在时。 | 作状语用过去分词 compared with / to。 |
-| 15 | He has been helping us **for** 1996. | He has been helping us **since** 1996. | since / for 混淆。 | since + 时间点；for + 时间段。 |
+### 教材写作示例原文：Going Positive
 
-## 写作素材与表达积累
+I always wanted to look like the slim girls on TV even though I knew that it was impossible. I worried about my weight and tried every new diet I read about online. I tried no-fat, low-fat, 5:2, only bananas, no bananas—I almost went bananas, too.
+
+Then I read an article that said instead of asking “Am I fat?” I should be asking “Am I fit?” I had no idea a letter could make such a difference! Once I started thinking about fitness rather than weight, things began to change. Instead of saying “I want to lose three kilos”, I would say “I want to run two kilometres in eight minutes” or “I want to be able to do 30 push-ups”. Rather than cutting out the foods I enjoyed, I added healthy foods to my meals. I could still have a burger now and then, but I would add a salad or an apple.
+
+Finally, I stopped comparing myself with actresses and models and looking for things that were wrong with my face or body. Instead, I made a list of the things I liked about myself. By being positive about myself and my body, I became both happier and healthier.
 
 本单元写作任务是 **a page in a wellness book（健康日记）**，核心是**对比过去与现在**（show similarities and differences），描述自己积极的改变。
 
@@ -510,116 +562,22 @@ title: "Unit 3 Sports and Fitness - 单元知识专题"
 - 表顺序：First, ... Then, ... Finally, ...
 - 表总结：in short, all in all, by doing ...
 
-## 专题练习
+## 重点与易错点
 
-### 一、词汇与短语（基础）
+### 本单元重点
 
-1. 用所给词的正确形式填空（compete / determine / injure / fail / impress / grace / honour / positive）。
+- **人物阅读主线**：用“身份—关键行动—困难—应对方式—影响”理解 Lang Ping 和 Michael Jordan，而不是只记人物成就。
+- **语言表达主线**：用反意疑问句确认信息，用 instead of / rather than 形成对比，用 by doing 表达实现变化的方式。
+- **健康写作主线**：先写过去的问题，再写触发改变的认识，接着比较现在的做法和结果，最后回到积极的自我评价。
 
-   (1) Her ________ was tested when the team was falling apart.
-   (2) One of the best players had been ________.
-   (3) Jordan's skills were ________.
-   (4) Everyone ________ at something, but we should learn from it.
-   (5) Children who ________ in a sport will learn how to deal with stress.
-   (6) Lang Ping brought ________ to her country.
-   (7) He changed basketball with his ________ moves.
-   (8) By being ________, I became both happier and healthier.
+### 易错辨析
 
-2. 选用方框中的短语填空（每个限用一次）。
-
-   `lose heart`　`fall apart`　`give up`　`set a good example`　`rather than`　`instead of`　`deal with`　`make a difference`
-
-   (1) Lang Ping did not ________ when facing difficulties.
-   (2) The team that she had built was ________.
-   (3) Jordan taught us to practise harder and never ________.
-   (4) Athletes should ________ for young people.
-   (5) ________ watching TV, I will go jogging.
-   (6) I added a salad ________ cutting out the foods I enjoyed.
-   (7) Sports help children learn how to ________ stress.
-   (8) A small change can ________ to your life.
-
-### 二、语法（巩固）
-
-3. 给下列句子加上正确的反意疑问句。
-
-   (1) It's a beautiful day, ________?
-   (2) You didn't go to the game, ________?
-   (3) Let's play soccer, ________?
-   (4) He has never been to Beijing, ________?
-   (5) There is a basketball game this Saturday, ________?
-   (6) I am late, ________?
-   (7) He used to smoke, ________?
-
-4. 根据事实回答下列反意疑问句。
-
-   (1) A: You went to the game, didn't you?（事实：去了）
-      B: ________, ________.
-   (2) A: You didn't watch the match, did you?（事实：看了）
-      B: ________, ________.
-
-### 三、句型与写作（提升）
-
-5. 用 rather than 改写：I will not watch TV. I will read a book.（合并为一句）
-
-6. 用 By doing ... 改写：I practised every day. I improved my English.
-
-7. 写一段不少于 80 词的"健康日记"，描述你过去和现在在锻炼或饮食方面的积极改变。要求：
-   - 包含"过去问题 → 改变 → 现在做法 → 积极结果"的结构；
-   - 至少使用 3 处表"相似或差异"的句型（instead of / rather than / both ... and ... 等）；
-   - 至少使用 5 个本单元词汇或短语。
-
-## 练习答案与解析
-
-### 一、词汇与短语
-
-1. (1) **determination**（determination was tested 决心受考验）。
-   (2) **injured**（had been injured 受伤，被动）。
-   (3) **impressive**（修饰事物 skills 用 -ing）。
-   (4) **fails**（everyone fails 每个人都会失败，一般现在时）。
-   (5) **compete**（compete in a sport 参加比赛）。
-   (6) **honour**（bring honour 带来荣誉）。
-   (7) **graceful**（graceful moves 优雅的动作）。
-   (8) **positive**（by being positive 通过积极）。
-
-2. (1) **lose heart**（灰心）。
-   (2) **falling apart**（正在瓦解，过去进行时）。
-   (3) **give up**（放弃）。
-   (4) **set a good example**（树立榜样）。
-   (5) **Instead of**（而不是，后接动名词）。
-   (6) **rather than**（而不是，后接动名词 cutting）。
-   (7) **deal with**（处理、应对）。
-   (8) **make a difference**（产生影响）。
-
-### 二、语法
-
-3. (1) **isn't it**（前肯后否）。
-   (2) **did you**（前否后肯）。
-   (3) **shall we**（Let's ... → shall we?）。
-   (4) **has he**（含 never 视为否定，后接肯定）。
-   (5) **isn't there**（there be 句型保留 there）。
-   (6) **aren't I**（I am → aren't I，固定）。
-   (7) **didn't he**（used to → didn't he）。
-
-4. (1) **Yes, I did**（事实是去了，Yes 接肯定动作）。
-   (2) **Yes, I did**（事实是看了，虽然问句是否定形式，但 Yes 仍接肯定动作）。
-   （解析：反意疑问句的回答以事实为准，与问句形式无关。）
-
-### 三、句型与写作
-
-5. **Rather than watch** TV, I will read a book.
-   （解析：rather than 后接动词原形，与 will read 前后对称。也可用 Instead of watching TV ...）
-
-6. **By practising every day**, I improved my English.
-   （解析：By + 动名词表方式，作状语。）
-
-7. 参考范文：
-
-> **GOING POSITIVE**
->
-> I always wanted to be thin, and I **worried about** my weight all the time. I tried every new **diet** I read about online—no-fat, low-fat, only fruits—but I almost **went bananas**.
->
-> **Then I read an article** that changed my thinking. **Instead of** asking "Am I fat?" I started asking "Am I fit?" **Rather than cutting out** the foods I enjoyed, I added healthy foods to my meals. I began to **work out** three times a week—jogging, swimming, and doing push-ups. I set clear goals: I wanted to run two kilometres in ten minutes.
->
-> I stopped **comparing myself with** models and actresses. **By being positive about myself and my body**, I became **both happier and healthier**. I have learnt that fitness is more important than weight.
->
-> （点评：包含"过去问题 → 改变 → 现在做法 → 积极结果"四段结构；使用 Instead of / Rather than / both ... and ... 等对比句型；用上 worried about / diet / work out / compare with / go bananas 等单元词汇。）
+| 易错形式 | 正确表达 | 判断依据 |
+| --- | --- | --- |
+| You are a student, are you? | You are a student, aren’t you? | 前面是肯定陈述，附加问句通常用否定。 |
+| You aren’t ready, aren’t you? | You aren’t ready, are you? | 前面是否定，附加问句用肯定。 |
+| “You didn’t go, did you?” — “No, I did.” | “Yes, I did.”（去了）/ “No, I didn’t.”（没去） | 反意疑问句的 Yes/No 按事实判断，不按中文“是/不是”直译。 |
+| instead of do | instead of doing | instead of 是介词短语，后接名词或动名词。 |
+| compare myself to actresses（泛指对比） | compare myself with actresses | compare with 更适合表示具体比较；compare to 常含“比作”意味。 |
+| lose the heart | lose heart | lose heart 是固定短语，表示“丧失信心”。 |
+| fitness 与 fit 混用 | think about fitness；be fit | fitness 是名词“健康状态”，fit 是形容词“健康的、合适的”。 |

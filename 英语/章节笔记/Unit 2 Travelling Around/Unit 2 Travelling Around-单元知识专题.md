@@ -1,8 +1,26 @@
 ---
 title: "Unit 2 Travelling Around - 单元知识专题"
+description: "围绕旅行准备、秘鲁旅游文本、现在进行时表将来、预订服务和旅行计划邮件整理本单元阅读、单词、句子、语法和作文表达，作为本单元唯一保留的综合学习笔记。"
+aliases:
+  - "Travelling Around 单元复习"
+tags:
+  - "学科/英语"
+  - "内容类型/章节笔记"
+  - "教材/英语必修第一册"
+  - "章节/Unit 2 Travelling Around"
+  - "知识点/现在进行时表将来"
+  - "知识点/旅行计划"
+  - "知识点/旅游文本"
+draft: false
 ---
 
 # Unit 2 Travelling Around - 单元知识专题
+
+<!-- 图片描述：英语单元总复习工作纸风格的旅行知识网络图，中心为 Travelling Around，分支连接 preparation、Peru texts、future plans、reservations、travel email 和 brochure；使用路线箭头而非风景装饰，深蓝、墨绿主色、橙色突出现在进行时和写作结构。 -->
+
+## 知识关系导航
+
+本文件整合 Unit 2 的阅读语篇、单词短语、重点句子、语法讲解和作文表达，是本单元唯一保留的学习入口。学习时按“阅读理解 → 单词与句子 → 语法归纳 → 写作迁移”的顺序使用。
 
 ## 专题定位
 
@@ -25,7 +43,7 @@ title: "Unit 2 Travelling Around - 单元知识专题"
 
 ## 核心词汇
 
-> 释义以教材与本单元语境为准；标 ★ 的为高频考点词。
+> 释义以教材与本单元语境为准；标 ★ 的为本单元语境重点词。
 
 | 单词 | 词性 | 英文释义 | 中文释义 | 单元例句 | 常见搭配 |
 | --- | --- | --- | --- | --- | --- |
@@ -61,6 +79,25 @@ title: "Unit 2 Travelling Around - 单元知识专题"
 
 > 派生词补充：**power → powerful → powerless**；**amaze → amazing → amazement**；**official → officially → officer**；**explore → explorer → exploration**；**build → builder → building**；**civilise → civilisation**；**discover → discovery**。
 
+### 教材词汇补充：旅行准备与文本识别
+
+| 词汇 | 语境义与搭配 |
+| --- | --- |
+| castle | n. 城堡；Neuschwanstein Castle |
+| apply / pack | v. 申请；收拾行李；apply for a visa / pack some clothes |
+| arrangement | n. 安排；make travel arrangements |
+| source | n. 来源；a source of information |
+| narrow / flat | adj. 狭窄的；平坦的；narrow, dry, flat land |
+| recognise / type | v. 认出、识别；n. 类型；recognise the type of text |
+| type / brochure | n. 类型；n. 资料或广告手册；text type / a travel brochure |
+| path | n. 小路；路线；walking paths through the mountains |
+| make up | 构成；形成；be made up of |
+| soldier | n. 士兵；Inca soldiers |
+| transport / hike | n. 交通运输；v./n. 徒步旅行；means of transport / go hiking |
+| credit / detail | n. 信用；n. 细节；credit card / travel details |
+| request / comment | n. 请求；n./v. 评论；make a polite request / comment on a plan |
+| view | n. 景色；看法；a beautiful view / in my view |
+
 ## 核心短语与固定搭配
 
 | 短语 | 释义 | 例句（优先取自单元原文） | 用法提示 |
@@ -88,6 +125,15 @@ title: "Unit 2 Travelling Around - 单元知识专题"
 | ★ check in / check out | 办理登记入住 / 结账离开 | ... **check in/check out** date. | 宾馆/机场用语。 |
 | ★ economy class / business class / first class | 经济舱 / 商务舱 / 头等舱 | Would you prefer **business class or economy**? | 机舱等级。 |
 | ★ a one-way / return flight | 单程 / 往返航班 | **book a return flight** this time? | return = round-trip（美）。 |
+
+### 听说与写作中的补充搭配
+
+- **get ready for** 为……做好准备；**get ready for the trip**
+- **research the local weather** 查当地天气；**book tickets online** 网上订票
+- **rent a car** 租车；**pack some clothes** 收拾衣物
+- **make travel arrangements** 安排旅行；**have a plan for the holiday**
+- **go sightseeing** 观光；**start sightseeing right away** 立即开始观光
+- **send photos** 发送照片；**hope to hear from you soon** 希望尽快收到你的来信
 
 ## 重点句型
 
@@ -173,6 +219,38 @@ title: "Unit 2 Travelling Around - 单元知识专题"
 | I **'m going to drop** it. | be going to | ✓ 即将发生 |
 | She **will apply** for a visa soon. | will do | ✓ 一般将来 |
 
+## 课文原文阅读
+
+> 以下保留教材 Reading and Thinking 的两类主阅读语篇：百科条目与旅游手册。建议先比较文体，再进入后面的结构和逐句分析。
+
+### Peru
+
+Peru is a country on the Pacific coast of South America with three main areas: narrow, dry, flat land running along the coast, the Andes Mountains, and the Amazon rainforest.
+
+In the 1400s and 1500s, Peru was the centre of the powerful ancient Inca Empire. The Inca emperor lived in the now-famous site Machu Picchu. Spain took control of Peru in the 16th century and ruled until 1821. It is for this reason that Spanish is the main official language of Peru.
+
+### Travel Peru
+
+#### Amazon Rainforest Tour
+
+A short flight from Cusco takes you from the Andes into the Amazon rainforest. From there, you’ll spend one day travelling by boat to your accommodation in the middle of the forest. You can then spend three days exploring the rainforest with a local guide and enjoying the plants and animals unique to the rainforest.
+
+#### Machu Picchu Tour
+
+This four-day walking tour will take you on amazing paths through the Andes Mountains on the way to the city of Machu Picchu. After reaching your destination, you will have a day to explore and be amazed by this ancient city. Especially amazing is the Incas’ dry stone method of building. Inca builders cut stones to exact sizes so that nothing was needed to hold walls together other than the perfect fit of the stones.
+
+#### Cusco Tour
+
+Spend four days enjoying the unique Spanish and local Indian culture high in the Andes at Cusco, the capital of the Inca Empire from the 13th until the 16th century. Stay in a local hotel, visit the museums, admire the architecture, enjoy the excellent local food, and go shopping at the local markets.
+
+#### Lake Titicaca Tour
+
+Enjoy the beautiful countryside as you spend a day driving along the new highway connecting Cusco to Lake Titicaca. There, a boat will take you to stay with a local Uros family on an island for three days. Both the island and the Uros homes are made of water plants from the lake.
+
+So come and experience what Peru has to offer: everything from the ancient Inca culture and centuries-old Spanish villages to deep rainforests, high mountains, and a beautiful coastline.
+
+For more brochures about other package tours around Peru, please contact us on our official website.
+
 ## 单元阅读语篇深度解读
 
 本单元主阅读是**两篇对比文体**：一篇**百科条目（encyclopedia entry）**介绍秘鲁概况，一篇**旅游手册（travel brochure）**推介四条旅游线路。本单元的阅读策略训练点是 **Recognise text type（识别文体）**。
@@ -196,7 +274,7 @@ title: "Unit 2 Travelling Around - 单元知识专题"
 | 内容结构 | 四条线路并列（Amazon Rainforest Tour / Machu Picchu Tour / Cusco Tour / Lake Titicaca Tour）→ 总结号召。 |
 | 写作意图 | 推介旅游线路，吸引游客报名。 |
 
-### 文体识别对比（核心考点）
+### 文体识别对比
 
 | 维度 | 百科条目（encyclopedia） | 旅游手册（brochure） |
 | --- | --- | --- |
@@ -206,7 +284,7 @@ title: "Unit 2 Travelling Around - 单元知识专题"
 | 句式 | 陈述句为主 | 陈述句 + 祈使句（So come and ...） |
 | 目的 | 提供信息 | 推销 / 号召 |
 
-### 旅游手册的四条线路结构（典型表格考点）
+### 旅游手册的四条线路结构
 
 | Tour | 天数 | 交通 | 住宿 | 活动 |
 | --- | --- | --- | --- | --- |
@@ -215,7 +293,7 @@ title: "Unit 2 Travelling Around - 单元知识专题"
 | Cusco | 4 days | （未明） | local hotel | 享受文化、看博物馆、购物 |
 | Lake Titicaca | （未明） | car + boat | local home | 乡村风光、住 Uros 家庭 |
 
-## 逐句解读
+## 逐句分析与解读
 
 > 选自 Peru（百科条目）与 Travel Peru（旅游手册）及 Terracotta Army。每句给出：**原句 / 翻译 / 语言点 / 难点提示**。
 
@@ -236,7 +314,7 @@ title: "Unit 2 Travelling Around - 单元知识专题"
 - 语言点：
   - **in the 1400s and 1500s** 在 15、16 世纪（= in the 15th and 16th centuries）。
   - **the powerful ancient Inca Empire** 多个形容词修饰名词，顺序为"观点—年代—产地—名词"。
-- 难点：形容词排序是高考考点。
+- 难点：形容词排序容易混淆，需要结合名词短语的层次理解。
 
 **③ The Inca emperor lived in the now-famous site Machu Picchu.**
 
@@ -279,7 +357,7 @@ title: "Unit 2 Travelling Around - 单元知识专题"
   - **spend (time) doing** 花时间做（doing 不可换 to do）。
   - **travel by boat** 乘船旅行。
   - **accommodation** n. 住处（不可数）。
-- 难点：★ spend time doing 是高频考点，不能写成 spend time to do。
+- 难点：★ spend time doing 是易混结构，不能写成 spend time to do。
 
 **⑧ You can then spend three days exploring the rainforest with a local guide and enjoying the plants and animals unique to the rainforest.**
 
@@ -390,27 +468,29 @@ title: "Unit 2 Travelling Around - 单元知识专题"
   - **while they were digging** 过去进行时，表"当时正在做"。
 - 难点：★ not ... until 句型；when 引导定语从句修饰时间名词。
 
-## 易错点整理
+## 作文写作与表达素材
 
-| # | 错误形式 | 正确形式 | 错因 | 防错提醒 |
-| --- | --- | --- | --- | --- |
-| 1 | I'm **looking forward to see** you. | I'm looking forward to **seeing** you. | 把 to 当不定式符号。 | look forward to + doing，to 是介词。 |
-| 2 | I **spent 3 hours to do** homework. | I spent 3 hours **doing** homework. | spend 误接 to do。 | spend time/money (in) doing。 |
-| 3 | We **will take the bus** (时刻表) | The bus **leaves** at 9:00. | 时刻表/官方安排误用将来时。 | 时刻表用一般现在时表将来。 |
-| 4 | The museum **is known for** "treasure house". | The museum **is known as** a "treasure house". | be known as / for 混淆。 | as 后接身份/名称；for 后接原因。 |
-| 5 | The bridge **is made from** stone. | The bridge **is made of** stone. | 看得出原料应用 of。 | be made of（看得出原料）；be made from（看不出原料）。 |
-| 6 | It **is** the bus **which** come now.（强调句误用） | It is the bus **that** comes now. | 强调句用 which。 | 强调物用 that，强调人用 who/that。 |
-| 7 | **Other than** 后接句子（误） | except that ... | other than / except 后不接从句。 | 接从句用 except that。 |
-| 8 | I **am arriving** yesterday. | I **arrived** yesterday. | 配过去时间误用现在进行时。 | 现在进行时表将来只配将来时间。 |
-| 9 | He is **amazing** at the news. | He is **amazed** at the news. | -ing/-ed 形容词混用。 | -ing 描述事物；-ed 描述人的感受。 |
-| 10 | a **four-days** trip | a **four-day** trip | 复合形容词用复数。 | 数词-名词（单数）构成复合形容词。 |
-| 11 | **Contact to** us | **Contact** us | contact 误加介词。 | contact sb（及物动词，不加 to）。 |
-| 12 | apply **a visa** | apply **for a visa** | 漏介词 for。 | apply for sth 申请。 |
-| 13 | I **can't wait going**. | I **can't wait to go**. | can't wait 后误用 doing。 | can't wait to do。 |
-| 14 | It is hard **for** believe. | It is hard **to believe**. | 形式主语句漏不定式。 | It is adj. to do。 |
-| 15 | The flight **takes you to** the rainforest.（错义） | A short flight **takes you into** the rainforest. | 介词 into 表"进入"。 | take sb into（进入）/ take sb to（到达）。 |
+### 教材写作示例原文：A Travel Plan to Xi’an
 
-## 写作素材与表达积累
+**To:** xl@youthlife.com
+**Subject:** A travel plan to Xi’an
+
+**Dear Xiao Li,**
+
+My time here in China is going well. I love my new school and classmates. Over the October holiday, my parents and I are planning to go to Xi’an to see the Terracotta Army. I’ve heard that it is an amazing sight, and I can’t wait to go. To me, the story of the Terracotta Army is almost unbelievable. It’s amazing that there are more than 8,000 statues, and no one in modern times knew about them until the 1970s.
+
+We’re also planning to visit several other places in Xi’an. My dad and I are both looking forward to going to the Shaanxi History Museum, because my dad loves history and I have heard that this museum is known as a “Chinese treasure house”! We’re also going to the Xi’an City Wall and a few other famous sights.
+
+We’re taking the train, leaving the day before the October holiday begins. We’re arriving at 9:30 a.m. and will start sightseeing right away, so I hope we sleep well on the train!
+
+I guess that’s all for now! I’ll write again soon and send photos! Do you have any plans for the coming holiday? Hope to hear from you soon.
+
+**Your friend,**
+**Richard**
+
+### 配套阅读原文：Terracotta Army
+
+Come and see the Terracotta Army: more than 8,000 statues were made in the third century BCE to guard the tomb of the Chinese Emperor Qinshihuang! Each statue has a different face, leading researchers to believe that each one is a copy of a real soldier. The statues fill only one part of the emperor’s huge tomb, which still has not been completely unearthed. More than 700,000 people worked for nearly 40 years to build this tomb. However, no one in modern times knew about the tomb or the terracotta statues until 1974, when some farmers discovered the tomb while they were digging a well!
 
 本单元写作任务是 **travel plan email（旅行计划邮件）**。下面整理可直接迁移到写作的素材。
 
@@ -453,123 +533,21 @@ title: "Unit 2 Travelling Around - 单元知识专题"
 - 表原因/结果：because, so, so that, therefore
 - 表总结：in short, all in all, that's all for now
 
-## 专题练习
+## 重点与易错点
 
-### 一、词汇与短语（基础）
+### 本单元重点
 
-1. 用所给词的正确形式填空（amaze / power / explore / official / discover / unique / extreme / accommodate）。
+- **语篇主线**：先从旅行准备进入目的地介绍，再通过百科条目和旅游手册比较信息组织方式，最后迁移到旅行计划邮件。
+- **语法主线**：现在进行时表将来强调已经安排好的计划，常与具体时间、交通和行程安排同时出现。
+- **表达主线**：旅行写作要交代目的、地点、活动、交通和情感，信息顺序要清楚，不能只堆景点名称。
 
-   (1) The Terracotta Army is an ________ sight.
-   (2) The Inca Empire was the most ________ empire in South America.
-   (3) You can spend three days ________ the rainforest.
-   (4) Spanish is the main ________ language of Peru.
-   (5) Some farmers ________ the tomb while they were digging a well.
-   (6) These plants are ________ to this area.
-   (7) Jiuzhaigou is an ________ beautiful place.
-   (8) We need to book ________ for the night.
+### 易错辨析
 
-2. 选用方框中的短语填空（每个限用一次）。
-
-   `take control of`　`be unique to`　`other than`　`so that`　`look forward to`　`be known as`　`be made of`　`apply for`
-
-   (1) Nothing was needed to hold the walls together ________ the perfect fit of the stones.
-   (2) Spain ________ Peru in the 16th century.
-   (3) I'm ________ hearing from you soon.
-   (4) The museum ________ a "Chinese treasure house".
-   (5) The island ________ water plants from the lake.
-   (6) He cut the stones to exact sizes ________ they could fit perfectly.
-   (7) These animals ________ the rainforest.
-   (8) You need to ________ a visa before you travel.
-
-### 二、语法（巩固）
-
-3. 用现在进行时表将来改写下列句子。
-
-   (1) I will fly to Shanghai next Monday. → I ________ to Shanghai next Monday.
-   (2) We plan to take the train tomorrow. → We ________ the train tomorrow.
-   (3) My parents will take me to Hong Kong during the holiday. → My parents ________ me to Hong Kong during the holiday.
-
-4. 判断下列句子中 be doing 是"现在进行"还是"表将来"。
-
-   (1) What are you doing this weekend?
-   (2) She is reading a book now.
-   (3) We're meeting at 10:00 a.m. at the bus stop.
-   (4) I'm bringing my own lunch tomorrow.
-
-5. 识别下列句子的文体（encyclopedia / brochure）并说明判断依据。
-
-   (1) "So come and experience what Peru has to offer."
-   (2) "Peru is a country on the Pacific coast of South America with three main areas."
-
-### 三、句型与写作（提升）
-
-6. 用强调句型（It is ... that ...）改写：Spain took control of Peru in the 16th century.（强调 in the 16th century）
-
-7. 用 not ... until 改写：Some farmers discovered the tomb in 1974. People didn't know about it before that.
-
-8. 写一封不少于 80 词的旅行计划邮件，告诉朋友你国庆假期的西安之行。要求：
-   - 包含旅行计划邮件的四段结构（目的 / 其他计划 / 交通 / 结尾）；
-   - 至少使用 3 处现在进行时表将来；
-   - 至少使用 5 个本单元词汇或短语。
-
-## 练习答案与解析
-
-### 一、词汇与短语
-
-1. (1) **amazing**（修饰事物 sight 用 -ing）。
-   (2) **powerful**（power 的形容词）。
-   (3) **exploring**（spend time doing）。
-   (4) **official**（official language 官方语言）。
-   (5) **discovered**（discover 发现，过去时）。
-   (6) **unique**（be unique to ……特有）。
-   (7) **extremely**（修饰形容词用副词）。
-   (8) **accommodation**（accommodation 住宿，不可数）。
-
-2. (1) **other than**（除了）。
-   (2) **took control of**（控制）。
-   (3) **looking forward to**（期待，后接动名词）。
-   (4) **is known as**（作为……闻名）。
-   (5) **is made of**（由……制成，看得出原料）。
-   (6) **so that**（以便，引导目的状语从句）。
-   (7) **are unique to**（……特有）。
-   (8) **apply for**（申请）。
-
-### 二、语法
-
-3. (1) I **am flying** to Shanghai next Monday.
-   (2) We **are taking** the train tomorrow.
-   (3) My parents **are taking** me to Hong Kong during the holiday.
-   （解析：be doing + 将来时间状语 = 已经安排好的将来计划。）
-
-4. (1) **表将来**（this weekend 是将来时间）。
-   (2) **现在进行**（now 表此刻）。
-   (3) **表将来**（已约定的会面时间）。
-   (4) **表将来**（tomorrow 是将来时间）。
-
-5. (1) **brochure（旅游手册）**。判断依据：用祈使句 "come and experience" 号召读者，主观有感染力。
-   (2) **encyclopedia（百科条目）**。判断依据：第三人称客观陈述事实，信息密度高，无第二人称和祈使句。
-
-### 三、句型与写作
-
-6. **It was in the 16th century that** Spain took control of Peru.
-   （解析：强调时间状语用 It was ... that（过去时）；被强调部分放 It was 和 that 之间。）
-
-7. People **didn't know about the tomb until** some farmers discovered it in 1974.
-   （解析：not ... until 直到……才；主句用过去时否定，until 后接从句。）
-
-8. 参考范文：
-
-> Dear Tom,
->
-> How is everything? Over the National Day holiday, my parents and I **are planning to go to** Xi'an to see the Terracotta Army. I've heard it is an **amazing sight**, and I **can't wait to** go. It's **amazing that** there are more than 8,000 statues!
->
-> We **'re also going to visit** the Shaanxi History Museum, which **is known as** a "Chinese treasure house". We **'re also planning to** go to the Xi'an City Wall.
->
-> We **'re taking the train**, leaving on October 1st. We **'re arriving at** 9:30 a.m. and will start sightseeing right away.
->
-> I guess that's all for now! I'll write again soon and send photos. **Looking forward to hearing** from you.
->
-> Your friend,
-> Li Hua
-
-（点评：包含四段结构；使用 are planning / 're taking / 're arriving 等多处现在进行时表将来；用上 amazing sight / can't wait to / be known as / look forward to 等单元词汇。）
+| 易错形式 | 正确表达 | 判断依据 |
+| --- | --- | --- |
+| spend three days to explore | spend three days exploring | spend time 后接动名词，不接不定式。 |
+| I am amazing. | I am amazed. / It is amazing. | 人感到惊讶用 amazed；事物令人惊讶用 amazing。 |
+| be made from water plants | be made of water plants | 原材料仍能看出时用 be made of；发生化学变化或看不出原料时用 be made from。 |
+| by the air / by a train | by air / by train | by + 交通方式通常不加冠词；也可说 take a train。 |
+| look forward to do | look forward to doing | look forward to 中的 to 是介词。 |
+| so that 只表示“以便” | so that 也可表示“结果” | 目的从句常含 can/will；结果从句描述实际发生的结果。 |

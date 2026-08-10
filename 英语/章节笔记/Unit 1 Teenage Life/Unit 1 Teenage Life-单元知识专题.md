@@ -1,8 +1,26 @@
 ---
 title: "Unit 1 Teenage Life - 单元知识专题"
+description: "围绕青春期校园生活整理本单元阅读、单词、句子、语法和作文表达，作为本单元唯一保留的综合学习笔记。"
+aliases:
+  - "Teenage Life 单元复习"
+tags:
+  - "学科/英语"
+  - "内容类型/章节笔记"
+  - "教材/英语必修第一册"
+  - "章节/Unit 1 Teenage Life"
+  - "知识点/短语类型"
+  - "知识点/建议信"
+  - "知识点/校园生活"
+draft: false
 ---
 
 # Unit 1 Teenage Life - 单元知识专题
+
+<!-- 图片描述：英语单元总复习工作纸风格的知识网络图，中心为 Teenage Life，分支连接 vocabulary/collocations、The Freshman Challenge、phrase types、future plans、letter of advice 和 project；用“输入—理解—扩展—表达—迁移”箭头组织内容，浅蓝灰背景、深蓝墨绿主色、橙色突出考点。 -->
+
+## 知识关系导航
+
+本文件整合 Unit 1 的阅读语篇、单词短语、重点句子、语法讲解和作文表达，是本单元唯一保留的学习入口。学习时按“阅读理解 → 单词与句子 → 语法归纳 → 写作迁移”的顺序使用。
 
 ## 专题定位
 
@@ -25,12 +43,12 @@ title: "Unit 1 Teenage Life - 单元知识专题"
 
 ## 核心词汇
 
-> 释义以教材与本单元语境为准；标 ★ 的为高频考点词，需要会拼写、会搭配、会造句。
+> 释义以教材与本单元语境为准；标 ★ 的为本单元语境重点词，需要会拼写、会搭配、会造句。
 
 | 单词 | 词性 | 英文释义 | 中文释义 | 单元例句 | 常见搭配 |
 | --- | --- | --- | --- | --- | --- |
 | ★ challenge | n. / vt. | a difficult task; to question sth | 挑战；质疑 | Going from junior high school to senior high school is a really big **challenge**. | face a challenge / take on a challenge / challenge sb to do |
-| ★ recommend | vt. | to suggest sth is good for a purpose | 建议；推荐 | My adviser **recommended** that I should sign up for advanced literature. | recommend (doing) sth / recommend sb to do / recommend that ... (should) do |
+| ★ recommend | vt. | to suggest sth is good for a purpose | 建议；推荐 | My adviser **recommended** that I should sign up for advanced literature. | recommend (doing) sth / recommend that ... (should) do |
 | ★ prefer | vt. | to like one thing better than another | 更喜欢；偏好 | I **prefer** helping others. | prefer A to B / prefer doing A to doing B / prefer to do A rather than do B |
 | ★ confuse | vt. | to make sb unable to think clearly | 使迷惑；使混淆 | The first week was a little **confusing**. | confuse A with B / be confused about sth |
 | confusing | adj. | hard to understand | 令人迷惑的 | The first week was a little **confusing**. | a confusing situation |
@@ -58,6 +76,24 @@ title: "Unit 1 Teenage Life - 单元知识专题"
 
 > 派生词补充：**recommend → recommendation**（n. 推荐）；**confuse → confusion**（n. 困惑）；**responsible → responsibility**（n. 责任）；**attract → attraction**（n. 吸引/吸引力）；**addict → addiction**（n. 上瘾）；**survive → survival → survivor**（幸存者）。
 
+### 教材词汇补充：听说、写作与单元任务
+
+| 词汇 | 语境义与搭配 |
+| --- | --- |
+| teenage / teenager | adj. 青少年的；n. 青少年；teenage life / a teenage problem |
+| freshman | n. 高中或大学一年级新生；a freshman at senior high school |
+| adviser | n. 顾问；指导老师；school adviser |
+| ballet / debate | n. 芭蕾舞；辩论；Ballet Club / Debate Club |
+| suitable | adj. 合适的；suitable for |
+| actually | adv. 事实上；用于纠正或补充信息 |
+| literature | n. 文学；advanced literature |
+| content / title / topic | n. 内容；标题；话题；理解语篇时先看 title、topic 和 content |
+| clean up / greenhouse | 打扫干净；温室；clean up parks / work in a greenhouse |
+| extra / solution | adj. 额外的；n. 解决办法；find a solution to a problem |
+| editor / plate | n. 编辑；n. 盘子；editorial work / a paper plate |
+| adventure / youth | n. 冒险；n. 青年时期；Adventure Camp / youth camp |
+| adult | n. 成年人；adj. 成年的；teenagers and adults |
+
 ## 核心短语与固定搭配
 
 | 短语 | 释义 | 例句（优先取自单元原文） | 用法提示 |
@@ -83,6 +119,15 @@ title: "Unit 1 Teenage Life - 单元知识专题"
 | ★ make the most of | 充分利用 | Make **the most of** your education. | = make the best use of。 |
 | fall behind (schedule) | 落后；滞后 | ... has already **fallen behind** schedule. | 反义 keep up with。 |
 | in advance | 提前 | Book the tickets **in advance**. | 与 advanced（高级的）同源但词性不同。 |
+
+### 听说与写作中的补充搭配
+
+- **be interested in** 对……感兴趣；**be interested in plants and animals**
+- **make friends** 交朋友；**hope to make some friends**
+- **learn about** 了解；**learn about teenage life**
+- **give a speech** 作演讲；**be going to give a speech**
+- **be attracted to** 被……吸引；**be addicted to** 沉迷于
+- **encourage sb to do** 鼓励某人做；**try new hobbies** 尝试新爱好
 
 ## 重点句型
 
@@ -167,6 +212,22 @@ title: "Unit 1 Teenage Life - 单元知识专题"
 - **good（形容词）English（名词）** 构成 NP；**good at English**（good + 介词短语）构成 AdjP。
 - **play well（动词 + 副词）** 中 well 是副词；**play good** 是错的（good 是形容词，不能修饰动词）。
 
+## 课文原文阅读
+
+> 以下保留教材 Reading and Thinking 的主阅读语篇。建议先独立通读，再结合后面的语篇结构和逐句分析理解。
+
+### The Freshman Challenge
+
+Hi! My name is Adam and I’m a freshman at senior high school.
+
+Going from junior high school to senior high school is a really big challenge. The first week was a little confusing.
+
+First, I had to think very carefully about which courses I wanted to take. The school adviser helped me choose the suitable ones: maths, English, chemistry, world history, and Chinese. I know that Chinese is a very difficult language, but I hope to be fluent when I graduate. My adviser recommended that I should sign up for advanced literature because I like English and I’m good at it.
+
+I had to choose extra-curricular activities, too. I tried to join the school football team, but the coach told me that I didn’t play well enough. Obviously, I was unhappy, but I won’t quit. I’ll find a way to improve on my own so that I can make the team next year. I joined a volunteer club instead. Every Wednesday, we work at a soup kitchen and hand out food to homeless people in the community.
+
+I know I’ll have to study harder as a senior high school student and get used to being responsible for a lot more. I’m a bit worried about keeping up with the other students in my advanced course, and it’ll be quite difficult to get used to all the homework. Still, I’m happy to be here. Studying hard isn’t always fun, but I’ll be well prepared for university or whatever else comes in the future.
+
 ## 单元阅读语篇深度解读
 
 ### 语篇 The Freshman Challenge 整体解读
@@ -197,7 +258,7 @@ title: "Unit 1 Teenage Life - 单元知识专题"
 2. **细节支撑**：用具体课程名（maths, chemistry, advanced literature）、具体活动（soup kitchen, hand out food）让叙事真实可感。
 3. **主题句（topic sentence）**：每段首句多为主题句，便于 skim（这是本单元阅读策略训练点）。
 
-## 逐句解读
+## 逐句分析与解读
 
 > 选自 The Freshman Challenge 全文。每句给出：**原句 / 翻译 / 语言点 / 难点提示**。
 
@@ -349,27 +410,21 @@ title: "Unit 1 Teenage Life - 单元知识专题"
   - **whatever else comes** 让步状语从句（无论将来还有什么出现）。
 - 难点：whatever 引导状语从句时用陈述语序；be prepared for = be ready for。
 
-## 易错点整理
+## 作文写作与表达素材
 
-| # | 错误形式 | 正确形式 | 错因 | 防错提醒 |
-| --- | --- | --- | --- | --- |
-| 1 | I am good **in** maths. | I am good **at** maths. | 母语负迁移，把"擅长"直译。 | 固定搭配 be good at + 名词/动名词。 |
-| 2 | He recommended me **join** the club. | He recommended that I **(should) join** the club. | recommend 后宾语从句漏用虚拟语气。 | recommend/suggest/advise + that + (should) do。 |
-| 3 | I hope him **to come**. | I hope **that he will come** / I wish him to come. | hope 不能接 sb to do。 | hope to do 或 hope + that 从句。 |
-| 4 | I'm used to **get up** early. | I'm used to **getting up** early. | 把 to 误当不定式符号。 | be/get used to + doing（to 是介词）。 |
-| 5 | I used to **getting** up early.（过去常常） | I used to **get** up early. | used to do 与 be used to doing 混淆。 | used to do 过去常常；be used to doing 习惯于。 |
-| 6 | She is **attracted with** games. | She is **attracted to** games. | 介词搭配错。 | be attracted to / be addicted to 都接 to。 |
-| 7 | He played **good**. | He played **well**. | 用形容词修饰动词。 | 修饰动词用副词 well。 |
-| 8 | The news is **confused**. | The news is **confusing**. | -ing / -ed 形容词混用。 | -ing 描述事物"令人……的"；-ed 描述人"感到……的"。 |
-| 9 | Why not **to join** us? | Why not **join** us? | Why not 后误加 to。 | Why not + 动词原形？ |
-| 10 | I prefer reading **than** watching TV. | I prefer reading **to** watching TV. | prefer A to B 误用 than。 | prefer A to B（A、B 同形式）；prefer to do A rather than do B。 |
-| 11 | Please **sign up** the club. | Please **sign up for** the club. | 漏掉介词 for。 | sign up (for sth) 报名参加。 |
-| 12 | He **quitted** smoking. | He **quit** smoking. | 误加过去式 -ed。 | quit 的三态同形：quit / quit / quit。 |
-| 13 | I'll find a way **improve**. | I'll find a way **to improve**. | 漏不定式符号。 | a way to do = 做某事的方法。 |
-| 14 | It is difficult **of** me **to** learn English. | It is difficult **for** me **to** learn English. | 形容词描述事物应用 for。 | 描述人品性（kind/nice）用 of；其他用 for。 |
-| 15 | enough **good** / enough **well** | **good** enough / **well** enough | enough 位置错。 | enough 修饰形/副时放其后，修饰名词时放其前（enough time）。 |
+### 教材写作示例原文：Letter of Advice
 
-## 写作素材与表达积累
+**Date: 10 September 2018**
+
+**Dear Worried Friend,**
+
+You wrote that you are very worried about your friend, Chen Lei. I understand quite well that you are anxious and feel terrible. You think that your friend plays computer games too often and spends too much time online.
+
+I recommend that you talk to your friend about his behaviour. It is not unusual for teenagers of your generation to be attracted to computer games and the online world. But spending too much time online is unhealthy and makes it very difficult to focus on other things in life. Some students even become addicted to the Internet and cannot concentrate on school and family life. I think you should encourage your friend to try new hobbies. Why not discuss the problem together? I am sure he will listen to you, since you are his good friend.
+
+**All the best,**
+
+**（署名）**
 
 本单元写作任务是 **letter of advice（建议信）**。下面整理可直接迁移到写作的素材。
 
@@ -406,107 +461,21 @@ title: "Unit 1 Teenage Life - 单元知识专题"
 - 表对比：but / however / while / instead / on the other hand
 - 表总结：in short / all in all / in a word
 
-## 专题练习
+## 重点与易错点
 
-### 一、词汇与短语（基础）
+### 本单元重点
 
-1. 用所给词的正确形式填空（confuse / recommend / prefer / responsible / attract / addict / fluent / volunteer）。
+- **语篇主线**：Adam 从选课、参加课外活动到适应高中作业，经历了“感到困惑—作出选择—遇到挫折—主动调整—承担责任”的成长过程。
+- **句子主线**：用动名词短语作主语，用宾语从句表达想法，用 so that 表达目的，用 get used to doing 表达逐渐适应。
+- **表达主线**：从描述 teenage problems 过渡到提出具体建议，并说明建议的理由和预期效果。
 
-   (1) My teacher ________ that I should read more English stories.
-   (2) I'm ________ about which club to join—there are so many choices.
-   (3) She is ________ to pop music and listens to it every day.
-   (4) He hopes to be ________ in English when he graduates.
-   (5) Being ________ for your own study is part of growing up.
-   (6) I prefer reading ________ watching TV.
-   (7) Many students became ________ to online games.
-   (8) Why not ________ to help at the soup kitchen?
+### 易错辨析
 
-2. 选用方框中的短语填空（每个限用一次）。
-
-   `sign up for`　`be good at`　`keep up with`　`get used to`　`be worried about`　`hand out`　`make the team`　`on my own`
-
-   (1) I want to ________ the advanced literature course.
-   (2) It took me a month to ________ getting up at six.
-   (3) She works hard to ________ the other students.
-   (4) I'll find a way to improve ________.
-   (5) He practises every day so that he can ________ next year.
-   (6) Don't ________ the exam—you are well prepared.
-   (7) We ________ food to homeless people every Wednesday.
-   (8) I ________ maths, so my adviser chose it for me.
-
-### 二、语法（巩固）
-
-3. 指出下列句中划线部分（用 \[ \] 标出）是名词短语（NP）、形容词短语（AdjP）还是副词短语（AdvP），并说明其句法功能。
-
-   (1) The first week was \[a little confusing\].
-   (2) Linda thinks and speaks \[quite quickly\].
-   (3) The kids over there are putting something on \[a round paper plate\].
-   (4) The new coach told me that I didn't play \[well enough\].
-
-4. 用名词短语 / 形容词短语 / 副词短语改写下列简单句，使其更生动。
-
-   (1) I tried out for the team. It was hard. → I tried out for ________. It was ________.
-   (2) She speaks. She is quick. → She speaks ________.
-
-### 三、句型与写作（提升）
-
-5. 用 recommend that ... (should) do 改写：The teacher said to me, "You should join the debate club."
-
-6. 用 prefer to do A rather than do B 改写：I like reading more than watching TV.
-
-7. 写一封不少于 80 词的建议信，对象是"一位沉迷手机游戏的朋友"。要求：
-   - 包含建议信的全部结构（greeting / opening / body / closing / signature）；
-   - 至少使用 3 种提建议的句型；
-   - 至少使用 5 个本单元词汇或短语。
-
-## 练习答案与解析
-
-### 一、词汇与短语
-
-1. (1) **recommends / recommended**（recommend 后接 that 从句用 should + 动词原形）。
-   (2) **confused**（人感到困惑，用 -ed 形容词）。
-   (3) **attracted**（be attracted to 被……吸引）。
-   (4) **fluent**（be fluent in 流利）。
-   (5) **responsible**（be responsible for 对……负责）。
-   (6) **to**（prefer A to B，前后对称，此处前后都是动名词）。
-   (7) **addicted**（be addicted to 沉迷于）。
-   (8) **volunteer**（Why not + 动词原形）。
-
-2. (1) **sign up for**（报名参加）。
-   (2) **get used to**（习惯于，后接动名词）。
-   (3) **keep up with**（跟上）。
-   (4) **on my own**（靠自己）。
-   (5) **make the team**（入选球队）。
-   (6) **be worried about**（担心）。
-   (7) **hand out**（分发）。
-   (8) **am good at**（擅长）。
-
-### 二、语法
-
-3. (1) **AdjP**（a little + adj.），作表语。
-   (2) **AdvP**（quite + adv.），作方式状语，修饰 speaks。
-   (3) **NP**（限定词 a + 形容词 round + paper + 名词 plate），作介词 on 的宾语。
-   (4) **AdvP**（adv. + enough），作程度状语，修饰 play。
-
-4. 参考答案（合理即可）：
-   (1) I tried out for **my school's cheerleading team**. It was **really hard**.
-   (2) She speaks **quite quickly and clearly**.
-
-### 三、句型与写作
-
-5. The teacher **recommended that I (should) join** the debate club.
-   （解析：recommend 后的宾语从句用虚拟语气 should + 动词原形，should 可省；人称和时态按语境调整。）
-
-6. I **prefer to read rather than watch** TV.
-   （解析：prefer to do A rather than do B，rather than 后接动词原形。）
-
-7. 参考范文：
-
-> Dear Worried Friend,
->
-> You wrote that you **are addicted to** mobile games and **spend too much time online**. I understand quite well that it is hard to stop. **I recommend that you (should) try new hobbies**, such as reading or running, **because** they can help you **focus on** more meaningful things. **Why not join a volunteer club**? You will meet new friends and **be responsible for** real tasks. **I think you should also make a workable schedule** so that you can **balance study and play**. I am sure you can **make the most of** your time and never **quit** trying.
->
-> All the best,
-> Li Hua
-
-（点评：包含建议信完整结构；使用 recommend that / Why not / I think you should 三种提建议句型；用上 addicted to / focus on / be responsible for / make the most of / quit 等单元词汇。）
+| 易错形式 | 正确表达 | 判断依据 |
+| --- | --- | --- |
+| recommend sb to do | recommend that sb (should) do | recommend 后接从句时使用虚拟语气结构。 |
+| get used to do | get used to doing | get used to 中的 to 是介词；used to do 才表示“过去常常”。 |
+| be confused / confusing | 人 be confused；事物 be confusing | -ed 表示人的感受，-ing 表示事物带来的感受。 |
+| prefer A than B | prefer A to B / prefer to do A rather than do B | prefer A to B 中 to 是固定搭配。 |
+| so that 与 so ... that | so that + 目的或结果；so + adj./adv. + that + 结果 | 判断从句意义，并观察 so 后是否直接接形容词或副词。 |
+| play good / enough good | play well；well enough | 动词需要副词修饰，enough 修饰形容词或副词时通常后置。 |

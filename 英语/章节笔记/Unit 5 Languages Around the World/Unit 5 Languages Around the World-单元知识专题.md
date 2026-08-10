@@ -1,8 +1,26 @@
 ---
 title: "Unit 5 Languages Around the World - 单元知识专题"
+description: "围绕世界语言、汉字演变、关系副词、英美英语差异和英语学习博客整理本单元阅读、单词、句子、语法和作文表达，作为本单元唯一保留的综合学习笔记。"
+aliases:
+  - "Languages Around the World 单元复习"
+tags:
+  - "学科/英语"
+  - "内容类型/章节笔记"
+  - "教材/英语必修第一册"
+  - "章节/Unit 5 Languages Around the World"
+  - "知识点/关系副词"
+  - "知识点/汉字文化"
+  - "知识点/英语学习博客"
+draft: false
 ---
 
 # Unit 5 Languages Around the World - 单元知识专题
+
+<!-- 图片描述：英语单元总复习工作纸风格的语言知识网络图，中心为 Languages Around the World，分支连接 world languages、Chinese writing system、relative adverbs、English varieties、study blog 和 word bank；用“事实—文化—句法—策略”箭头组织内容，深蓝、墨绿主色、橙色突出关系副词。 -->
+
+## 知识关系导航
+
+本文件整合 Unit 5 的阅读语篇、单词短语、重点句子、语法讲解和作文表达，是本单元唯一保留的学习入口。学习时按“阅读理解 → 单词与句子 → 语法归纳 → 写作迁移”的顺序使用。
 
 ## 专题定位
 
@@ -26,7 +44,7 @@ title: "Unit 5 Languages Around the World - 单元知识专题"
 
 ## 核心词汇
 
-> 释义以教材与本单元语境为准；标 ★ 的为高频考点词。
+> 释义以教材与本单元语境为准；标 ★ 的为本单元语境重点词。
 
 | 单词 | 词性 | 英文释义 | 中文释义 | 单元例句 | 常见搭配 |
 | --- | --- | --- | --- | --- | --- |
@@ -69,6 +87,21 @@ title: "Unit 5 Languages Around the World - 单元知识专题"
 
 > 派生词补充：**symbol → symbolise → symbolic**；**carve → carving**；**civilise → civilisation → civilised**；**unite → unity → united**；**vary → various → variety**；**regard → regardless (of)**；**appreciate → appreciation**；**refer → reference**；**struggle → struggling**。
 
+### 教材词汇补充：语言学习与英美英语
+
+| 词汇 | 语境义与搭配 |
+| --- | --- |
+| billion / system | num. 十亿；n. 体系、系统；two billion people / a writing system |
+| based / base | adj./v. 以……为基础；picture-based / be based on |
+| specific | adj. 特定的、明确的；specific information |
+| CE / BCE | 公元；公元前；the Common Era / Before the Common Era |
+| subway / pants | n. 地铁；n. 裤子或内裤；American English / British English |
+| beg / equal | v. 恳求；n./adj. 同等的人、相等的；I beg your pardon / we are equals |
+| gap / demand | n. 差距；n./v. 要求、需求；bridge the gap / make a demand |
+| vocabulary | n. 词汇；learn new vocabulary / keep vocabulary straight |
+| civilised | adj. 文明的；civilised society |
+| symbolise / appreciation | v. 象征；n. 欣赏、理解；characters symbolise meanings / appreciation of culture |
+
 ## 核心短语与固定搭配
 
 | 短语 | 释义 | 例句（优先取自单元原文） | 用法提示 |
@@ -98,6 +131,16 @@ title: "Unit 5 Languages Around the World - 单元知识专题"
 | ★ give up (doing) | 放弃 | I told my mum that I wanted to **give up**. | 后接动名词。 |
 | ★ by the way | 顺便说一下 | I knew what you meant, **by the way**. | 话题转移用语。 |
 | ★ mind (sb) doing | 介意（某人）做 | **Would you mind opening** the window? | mind 后接动名词。 |
+
+### 听说与写作中的补充搭配
+
+- **native language / native speaker** 母语 / 母语者；**native English speakers**
+- **have trouble with** 在……方面有困难；**have trouble with listening**
+- **repeat what I hear** 重复听到的内容；**record my voice**
+- **depend on who ...** 取决于你和谁说话；**decide whether to say ...**
+- **make a request** 提出请求；**make a request longer**
+- **be senior to sb** 比某人年长或职位高；**someone senior to me**
+- **keep ... straight in one’s head** 把……记清楚；**remember how to use words**
 
 ## 重点句型
 
@@ -164,7 +207,7 @@ title: "Unit 5 Languages Around the World - 单元知识专题"
 
 > **关键**：关系副词 when / where / why 在从句中作**状语**，不作主语或宾语，因此**不可省略后用 that 替换**。判断用关系代词还是关系副词，看从句是否缺主语/宾语：缺则用代词，不缺则用副词。
 
-#### 二、关系副词 vs 关系代词的判断（核心考点）
+#### 二、关系副词 vs 关系代词的判断
 
 以先行词 "the day" 为例：
 
@@ -204,6 +247,26 @@ title: "Unit 5 Languages Around the World - 单元知识专题"
 | Unit 4 | 关系代词（作主语/宾语/定语） | that / which / who / whom / whose |
 | Unit 5 | 关系副词（作状语）+ 介词 + 关系代词 | when / where / why；prep + whom / which |
 
+## 课文原文阅读
+
+> 以下保留教材 Reading and Thinking 的主阅读语篇。先按时间线梳理汉字书写系统的发展，再进入逐句语言分析。
+
+### The Chinese Writing System: Connecting the Past and the Present
+
+China is widely known for its ancient civilisation which has continued all the way through into modern times, despite the many ups and downs in its history. There are many reasons why this has been possible, but one of the main factors has been the Chinese writing system.
+
+At the beginning, written Chinese was a picture-based language. It dates back several thousand years to the use of longgu—animal bones and shells on which symbols were carved by ancient Chinese people. Some of the ancient symbols can still be seen in today’s hanzi.
+
+教材插图中的汉字演变示例：马、鱼、鹿、牛；人、大、子、止；以及七国文字在秦统一后的变化。
+
+By the Shang Dynasty (around 1600–1046 BCE), these symbols had become a well-developed writing system. Over the years, the system developed into different forms, as it was a time when people were divided geographically, leading to many varieties of dialects and characters. This, however, changed under Emperor Qinshihuang of the Qin Dynasty (221–207 BCE).
+
+Emperor Qinshihuang united the seven major states into one unified country where the Chinese writing system began to develop in one direction. That writing system was of great importance in uniting the Chinese people and culture. Even today, no matter where Chinese people live or what dialect they speak, they can all still communicate in writing.
+
+Written Chinese has also become an important means by which China’s present is connected with its past. People in modern times can read the classic works which were written by Chinese in ancient times. The high regard for the Chinese writing system can be seen in the development of Chinese characters as an art form, known as Chinese calligraphy, which has become an important part of Chinese culture.
+
+Today, the Chinese writing system is still an important part of Chinese culture. As China plays a greater role in global affairs, an increasing number of international students are beginning to appreciate China’s culture and history through this amazing language.
+
 ## 单元阅读语篇深度解读
 
 ### 语篇 The Chinese Writing System: Connecting the Past and the Present 整体解读
@@ -240,7 +303,7 @@ title: "Unit 5 Languages Around the World - 单元知识专题"
 
 本单元训练的阅读策略是 **scanning**——快速浏览文本寻找**特定信息**（如日期、数字、名称）。例如：扫描全文找出所有表时间的词（thousands of years ago, the Shang Dynasty, the Qin Dynasty, today），并写出每个时间发生的事，即可梳理出文章脉络。
 
-## 逐句解读
+## 逐句分析与解读
 
 > 选自 The Chinese Writing System: Connecting the Past and the Present。每句给出：**原句 / 翻译 / 语言点 / 难点提示**。
 
@@ -388,27 +451,17 @@ title: "Unit 5 Languages Around the World - 单元知识专题"
   - **appreciate** 欣赏、感激。
 - 难点：★ an increasing number of + 复数名词 + 复数谓语；as 表"随着"。
 
-## 易错点整理
+## 作文写作与表达素材
 
-| # | 错误形式 | 正确形式 | 错因 | 防错提醒 |
-| --- | --- | --- | --- | --- |
-| 1 | I will never forget the day **when** I spent with you.（缺宾） | I will never forget the day **(that/which)** I spent with you. | 从句缺宾语却误用关系副词。 | 缺主宾用关系代词；不缺用关系副词。 |
-| 2 | This is the house **where** he lives **in**. | This is the house **where** he lives. / the house **(that)** he lives **in**. | where 与 in 重复。 | where 已含介词意义，不再加介词。 |
-| 3 | The reason **why** he gave is unclear.（缺宾） | The reason **(that/which)** he gave is unclear. | 从句缺宾却用 why。 | 判断缺不缺主宾再选关系词。 |
-| 4 | It **dates back to** several thousand years.（误加 to） | It **dates back** several thousand years. | date back 后误加 to。 | date back (时间) 或 date back to (时间点)；本句直接接时段不加 to。 |
-| 5 | **Despite of** the rain, we went out. | **Despite** the rain, we went out. / **In spite of** the rain ... | despite 误加 of。 | despite 后不接 of；in spite of 才有 of。 |
-| 6 | Despite the rain, **but** we went out. | Despite the rain, we went out. | 让步状语与 but 重复。 | 中文"尽管…但…"中英语只用一个让步词。 |
-| 7 | The system is **of great important**. | The system is **of great importance**. | of + 名词误用形容词。 | be of + 抽象名词（importance / value / use）。 |
-| 8 | An increasing number of student **is** learning Chinese. | An increasing number of student**s** **are** learning Chinese. | 主谓一致与单复数错。 | an increasing number of + 复数名词 + 复数谓语。 |
-| 9 | The book **which** cover is red is mine. | The book **whose** cover is red is mine. | 表所属误用 which。 | 表"……的"用 whose（人或物）。 |
-| 10 | This is the teacher **with who** I talked. | This is the teacher **with whom** I talked. | 介词后误用 who。 | 介词后用 whom（人）/ which（物）。 |
-| 11 | No matter **whatever** happens, I'll stay. | No matter **what** happens, I'll stay. | no matter 后误用 whatever。 | no matter + 疑问词（what / how / where），不带 -ever。 |
-| 12 | I'm looking forward to **see** you. | I'm looking forward to **seeing** you. | to 误当不定式。 | look forward to + doing（to 是介词）。 |
-| 13 | Would you mind **to open** the window? | Would you mind **opening** the window? | mind 后误用不定式。 | mind + doing。 |
-| 14 | He **demanded me to leave**. | He **demanded that I (should) leave**. | demand 误接 sb to do。 | demand + that 从句（should do）或 demand to do。 |
-| 15 | It was a time **which** people were divided. | It was a time **when** people were divided. | 表时间状语误用 which。 | a time 后用 when（从句主谓完整）。 |
+### 教材写作示例原文：Learning English
 
-## 写作素材与表达积累
+**Hey, everybody, what are your biggest problems with learning English?**
+
+**Liu Wen:** Hi! I’ve been studying English since primary school. I used to get high marks in English, but now I’m having a lot of trouble with my listening. When I listen to native English speakers talking in a video, I can catch only a few words. I can never quite get the main idea. Any advice?
+
+**Jia Xin:** Listening to English radio programmes helps me get used to how fast native speakers talk. I also repeat what I hear to help myself to experience the feeling of the language. Sometimes I even record my voice so I can listen to myself and compare my pronunciation with the radio host’s! My biggest headache is how to be polite in English. It’s so much easier to just say “Open the window!”, but in English that can sound really terrible. I have to think about who I’m talking to and then decide whether to say, “Open the window, please!” or “Could you open the window, please?” or even longer “Would you mind opening the window, please?”
+
+**Li Rui:** Yeah, that’s really hard! I think it all depends on who you’re talking to. If I’m talking to a close friend, I can use short requests, like “Open the window”—our relationship is close and we’re equals, so I only need a few words to bridge the gap between us. But if I’m talking to someone who isn’t very close to me, I must make my request longer—and I must make it a question, not a demand, e.g., “Could you open the window, please?” If I’m talking to someone senior to me, then I should say, “Would you mind opening the window, please?” For me, vocabulary is my biggest problem—there are just SO MANY new words! I can’t keep all the new vocabulary straight in my head, and I certainly can’t remember how to use them all properly. HELP!
 
 本单元写作任务是 **a blog about English study（关于英语学习的博客）**，核心是**清楚描述问题 + 给出建议**（describe a problem + give advice）。
 
@@ -455,7 +508,7 @@ title: "Unit 5 Languages Around the World - 单元知识专题"
 - Would you mind repeating ...? / I beg your pardon.
 - So am I right in saying ...? / So what you're really saying is ...?
 
-### 英美英语差异词汇（高频常识考点）
+### 英美英语差异词汇
 
 | 中文 | 英式英语 (BrE) | 美式英语 (AmE) |
 | --- | --- | --- |
@@ -477,119 +530,22 @@ title: "Unit 5 Languages Around the World - 单元知识专题"
 - 表举例：for example, for instance, such as, e.g.
 - 表总结：in short, all in all, to sum up
 
-## 专题练习
+## 重点与易错点
 
-### 一、词汇与短语（基础）
+### 本单元重点
 
-1. 用所给词的正确形式填空（carve / unite / civilise / appreciate / refer / struggle / vary / demand）。
+- **语篇主线**：按时间线追踪汉字从图画文字、商代书写系统到秦代统一，再连接到当代文化和国际传播。
+- **语法主线**：关系副词 when / where / why 先由先行词判断，再检查从句中是否缺少时间、地点或原因状语。
+- **表达主线**：描述英语学习问题时先具体说明困难，再给出可执行的建议，并根据交际对象选择合适的礼貌程度。
 
-   (1) Symbols were ________ on animal bones by ancient Chinese people.
-   (2) Emperor Qinshihuang ________ the seven major states into one country.
-   (3) China is known for its ancient ________.
-   (4) More international students are beginning to ________ Chinese culture.
-   (5) What does the italicised word ________ to?
-   (6) Learning a language was a ________ for me at first.
-   (7) There are many ________ of dialects in China.
-   (8) There is an increasing ________ for English translators.
+### 易错辨析
 
-2. 选用方框中的短语填空（每个限用一次）。
-
-   `date back to`　`be known for`　`no matter where`　`be of great importance`　`despite`　`an increasing number of`　`play a role in`　`have trouble with`
-
-   (1) The Chinese writing system can ________ several thousand years.
-   (2) China ________ its ancient civilisation.
-   (3) ________ Chinese people live, they can communicate in writing.
-   (4) The system ________ in uniting the people.
-   (5) ________ the ups and downs, the civilisation has continued.
-   (6) ________ students are learning Chinese.
-   (7) China ________ a greater role in global affairs now.
-   (8) I ________ my listening comprehension.
-
-### 二、语法（巩固）
-
-3. 用合适的关系词填空（when / where / why / that / which / who / whom / whose，或"介词 + 关系代词"）。
-
-   (1) It was a time ________ people were divided geographically.
-   (2) Emperor Qin united the states into one country ________ the system began to develop.
-   (3) There are many reasons ________ people learn a foreign language.
-   (4) I will never forget the day ________ I first came to this school.
-   (5) This is the house ________ Lu Xun once lived.
-   (6) The book ________ cover is red is mine.
-   (7) The teacher with ________ I talked is very kind.
-   (8) This is the best film ________ I have ever seen.
-
-4. 判断正误并改正。
-
-   (1) Despite of the rain, we went out.
-   (2) An increasing number of student is learning Chinese.
-   (3) This is the house where he lives in.
-
-### 三、句型与写作（提升）
-
-5. 用 despite 改写：Although it rained heavily, we went out.（保持句意）
-
-6. 用 no matter where 改写：Wherever Chinese people live, they can communicate in writing.
-
-7. 写一篇不少于 80 词的博客，描述你在英语学习中的一个困难，并给出两条建议。要求：
-   - 包含"提问 → 描述问题 → 给建议 → 结尾"的结构；
-   - 至少使用 2 种给建议的句型；
-   - 至少使用 5 个本单元词汇或短语。
-
-## 练习答案与解析
-
-### 一、词汇与短语
-
-1. (1) **carved**（be carved 被雕刻，被动）。
-   (2) **united**（unite 统一，过去时）。
-   (3) **civilisation**（ancient civilisation 古代文明）。
-   (4) **appreciate**（appreciate 欣赏）。
-   (5) **refer**（refer to 指的是）。
-   (6) **struggle**（a struggle 一场斗争/难事）。
-   (7) **varieties**（varieties of 多种……）。
-   (8) **demand**（a demand for 对……的需求）。
-
-2. (1) **date back to**（追溯到）。
-   (2) **is known for**（因……而闻名）。
-   (3) **No matter where**（无论哪里）。
-   (4) **was / is of great importance**（非常重要）。
-   (5) **Despite**（尽管，后不接 of）。
-   (6) **An increasing number of**（越来越多的，后接复数名词）。
-   (7) **plays / is playing**（play a role in 在……中起作用）。
-   (8) **have trouble with**（在……上有困难）。
-
-### 二、语法
-
-3. (1) **when**（先行词 a time 表时间，从句主谓完整）。
-   (2) **where**（先行词 country 表地点，从句主谓完整）。
-   (3) **why**（先行词 reasons 表原因）。
-   (4) **when / on which**（先行词 the day 表时间）。
-   (5) **where / in which**（先行词 the house 表地点）。
-   (6) **whose**（表"书的"，作定语）。
-   (7) **whom**（介词 with 后用 whom）。
-   (8) **that**（先行词 film 被最高级 the best 修饰，只能用 that）。
-
-4. (1) **错**。改正：**Despite** the rain, we went out.（解析：despite 后不接 of；或用 In spite of the rain。）
-   (2) **错**。改正：An increasing number of student**s** **are** learning Chinese.（解析：an increasing number of + 复数名词 + 复数谓语。）
-   (3) **错**。改正：This is the house **where** he lives. / This is the house **(that)** he lives **in**.（解析：where 已含 in 的意义，不能再用 in；或保留 in 用 that。）
-
-### 三、句型与写作
-
-5. **Despite the heavy rain**, we went out.
-   （解析：Although + 句子 → Despite + 名词短语；heavy rain 是名词短语。）
-
-6. **No matter where** Chinese people live, they can communicate in writing.
-   （解析：Wherever = No matter where，引导让步状语从句。）
-
-7. 参考范文：
-
-> **Learning English**
->
-> Hey, everybody! What's your biggest problem with learning English?
->
-> For me, **vocabulary is my biggest problem**. There are just SO MANY new words! I **can't keep all the new vocabulary straight** in my head, and I certainly can't remember how to use them all properly. I also **have a lot of trouble with** my listening—when I listen to native speakers, I can catch only a few words. **HELP!**
->
-> Here is what **worked for me**. First, **you might try** keeping a word bank—organise new words by topic or by root, and review them every day. **My advice is** to use each new word in a sentence of your own. Second, **it's very important to** listen to English radio every day; it helps you **get used to** how fast native speakers talk.
->
-> Any other advice? Thanks in advance!
->
-> （点评：包含"提问 → 描述问题 → 给建议 → 结尾"四段结构；使用 you might try / My advice is / it's very important to 等给建议句型；用上 have trouble with / get used to / keep ... straight / work for me 等单元词汇。）
+| 易错形式 | 正确表达 | 判断依据 |
+| --- | --- | --- |
+| the place which I live | the place where I live / the place in which I live | 从句中 live 后不缺宾语，缺地点状语，用 where 或 in which。 |
+| the reason because ... | the reason why ... / the reason for which ... | because 引导原因状语从句，不充当定语从句关系词。 |
+| despite of the rain | despite the rain / in spite of the rain | despite 后直接接名词或动名词，不加 of。 |
+| date back to be ... | date back to ... | date back 是主动短语，表示“追溯到”，不用被动。 |
+| an increasing number of student is | an increasing number of students are | number of 后接复数名词，整体表示数量增长，谓语用复数。 |
+| means are（表示一种方法） | a means is；many means are | means 单复数同形，根据前面的限定词和意义判断。 |
+| pants 在英美英语中意义相同 | BrE pants = 内裤；AmE pants = 裤子 | 词义受英语变体和交际语境影响，需要先确认说话者的语言习惯。 |
