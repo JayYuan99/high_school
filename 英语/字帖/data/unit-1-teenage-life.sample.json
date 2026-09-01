@@ -1,0 +1,185 @@
+{
+  "unit": "Unit 1 Teenage Life",
+  "book": "人教版 高中英语 必修第一册",
+  "scope": "示例版 · 词汇 + 短语例句 + 描红短文",
+  "footer": "Unit 1 Teenage Life · 字帖示例",
+  "hand_font": "'Comic Sans MS', 'Chalkboard SE', 'Comic Sans MS', sans-serif",
+  "sections": [
+    {
+      "key": "A",
+      "title": "核心词汇",
+      "desc": "双栏练习 · 描红 2 遍 + 临写 2 遍",
+      "minutes": 5,
+      "mode": "word",
+      "cols": 2,
+      "row_h": 8,
+      "font": 5.4,
+      "repeat_cap": 2,
+      "blanks": 2,
+      "items": [
+        {
+          "head": "challenge",
+          "pos": "n. / vt.",
+          "cn": "挑战；质疑",
+          "note": "face a challenge 面临挑战",
+          "trace": "challenge"
+        },
+        {
+          "head": "recommend",
+          "pos": "vt.",
+          "cn": "建议；推荐",
+          "note": "recommend (doing) sth 建议做某事",
+          "trace": "recommend"
+        },
+        {
+          "head": "prefer",
+          "pos": "vt.",
+          "cn": "更喜欢；偏好",
+          "note": "prefer A to B 喜欢 A 胜过 B",
+          "trace": "prefer A to B"
+        },
+        {
+          "head": "confuse",
+          "pos": "vt.",
+          "cn": "使迷惑；使混淆",
+          "note": "confusing 修饰物；confused 修饰人",
+          "trace": "confuse"
+        },
+        {
+          "head": "quit",
+          "pos": "v. quit/quit",
+          "cn": "停止；放弃；退出",
+          "note": "quit doing sth 放弃做某事",
+          "trace": "quit"
+        },
+        {
+          "head": "fluent",
+          "pos": "adj.",
+          "cn": "流利的；流畅的",
+          "note": "be fluent in 通晓（某种语言）",
+          "trace": "fluent"
+        },
+        {
+          "head": "graduate",
+          "pos": "vi. / n.",
+          "cn": "毕业；毕业生",
+          "note": "graduate from 从……毕业",
+          "trace": "graduate"
+        },
+        {
+          "head": "improve",
+          "pos": "vi. / vt.",
+          "cn": "改进；改善",
+          "note": "improve on sth 在某事上改进",
+          "trace": "improve"
+        },
+        {
+          "head": "responsible",
+          "pos": "adj.",
+          "cn": "有责任的；负责的",
+          "note": "be responsible for 对……负责",
+          "trace": "responsible"
+        },
+        {
+          "head": "concentrate",
+          "pos": "vi. / vt.",
+          "cn": "集中（注意力）",
+          "note": "concentrate on 专注于",
+          "trace": "concentrate"
+        }
+      ]
+    },
+    {
+      "key": "B",
+      "title": "短语与例句",
+      "desc": "描整句，说明行给出短语与搭配",
+      "minutes": 6,
+      "mode": "sentence",
+      "row_h": 9,
+      "font": 4.4,
+      "repeat_cap": 1,
+      "blanks": 1,
+      "items": [
+        {
+          "head": "sign up (for sth)",
+          "cn": "报名（参加）",
+          "note": "sign up for a course　后接名词或动名词",
+          "trace": "I should sign up for advanced literature."
+        },
+        {
+          "head": "be good at (sth / doing)",
+          "cn": "擅长",
+          "note": "be good at it　勿写成 be good in",
+          "trace": "I like English and I'm good at it."
+        },
+        {
+          "head": "make the team",
+          "cn": "入选（球队）",
+          "note": "make = 成功成为；同类 make friends",
+          "trace": "I'll improve so that I can make the team next year."
+        },
+        {
+          "head": "keep up with",
+          "cn": "跟上；不落后",
+          "note": "keep up with sb 跟上某人",
+          "trace": "I'm a bit worried about keeping up with the other students."
+        },
+        {
+          "head": "get used to (sth / doing)",
+          "cn": "习惯于",
+          "note": "★ to 是介词，后接名词或动名词",
+          "trace": "It'll be quite difficult to get used to all the homework."
+        },
+        {
+          "head": "on one's own",
+          "cn": "独自；靠自己",
+          "note": "improve on my own　区别 of one's own（自己的）",
+          "trace": "I'll find a way to improve on my own."
+        },
+        {
+          "head": "focus on / concentrate on",
+          "cn": "集中（注意力）于",
+          "note": "★ 后接名词或动名词",
+          "trace": "Spending too much time online makes it difficult to focus on other things."
+        }
+      ]
+    },
+    {
+      "key": "C",
+      "title": "描红短文",
+      "desc": "先整段描红，再整段临写",
+      "minutes": 9,
+      "mode": "passage",
+      "row_h": 8,
+      "font": 4.4,
+      "items": [
+        {
+          "head": "The Freshman Challenge（课文节选）",
+          "text": "Hi! My name is Adam and I'm a freshman at senior high school. Going from junior high school to senior high school is a really big challenge. The first week was a little confusing. I had to think very carefully about which courses to take. My adviser recommended that I should sign up for advanced literature, because I like English and I'm good at it."
+        },
+        {
+          "head": "Letter of Advice（建议信节选）",
+          "text": "I understand quite well that you are anxious. I recommend that you talk to your friend about his behaviour. Spending too much time online makes it difficult to focus on other things."
+        }
+      ]
+    },
+    {
+      "key": "D",
+      "title": "默写自检",
+      "desc": "只看中文提示，写出完整英文",
+      "minutes": 2,
+      "mode": "recall",
+      "row_h": 8,
+      "items": [
+        { "prompt": "挑战；质疑（n. / vt.）", "hint": "c _ _ _ _ _ _ _ _" },
+        { "prompt": "建议；推荐（vt.）", "hint": "r _ _ _ _ _ _ _ _" },
+        { "prompt": "更喜欢；偏好（vt.）", "hint": "p _ _ _ _ _" },
+        { "prompt": "毕业；毕业生（vi. / n.）", "hint": "g _ _ _ _ _ _ _" },
+        { "prompt": "改进；改善（vi. / vt.）", "hint": "i _ _ _ _ _ _" },
+        { "prompt": "习惯于（to 是介词）", "hint": "get ____ ____ sth" },
+        { "prompt": "对……负责", "hint": "be __________ for" },
+        { "prompt": "跟上；不落后", "hint": "____ up with" }
+      ]
+    }
+  ]
+}

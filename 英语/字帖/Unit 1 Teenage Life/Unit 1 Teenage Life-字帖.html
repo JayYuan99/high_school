@@ -1,0 +1,176 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><title>Unit 1 Teenage Life · 字帖</title><style>
+@page { size: A4; margin: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --ink: #1A1A1A;
+  --ink2: #3A3A36;
+  --ink3: #6E6E68;
+  --trace: #C9CFD6;
+  --line: #CBD3DA;
+  --base: #93A0AD;
+  --accent: #1F4E6B;
+  --hand: 'Comic Sans MS', 'Chalkboard SE', 'Comic Sans MS', sans-serif;
+}
+
+html { background: #E9E9E6; }
+body {
+  font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  color: var(--ink); background: #E9E9E6;
+  -webkit-print-color-adjust: exact; print-color-adjust: exact;
+}
+
+.page {
+  width: 210mm; height: 297mm;
+  padding: 16mm 15mm 14mm 20mm;
+  background: #fff;
+  margin: 0 auto 10mm;
+  position: relative; overflow: hidden;
+  break-after: page; page-break-after: always;
+}
+.page:last-child { break-after: auto; page-break-after: auto; }
+
+@media print {
+  html, body { background: #fff; }
+  .page { margin: 0; box-shadow: none; }
+}
+
+.phead {
+  height: 15mm; display: flex; align-items: flex-start; justify-content: space-between;
+  border-bottom: 0.8pt solid #C4C4BE;
+}
+.ph-l b { font-size: 4.4mm; letter-spacing: .01em; font-weight: 600; }
+.ph-l span { display: block; font-size: 2.7mm; color: #7C7C76; margin-top: 1.2mm; }
+.ph-r { font-size: 2.7mm; color: #7C7C76; text-align: right; white-space: nowrap; }
+
+.pfoot {
+  position: absolute; left: 20mm; right: 15mm; bottom: 6mm;
+  display: flex; justify-content: space-between;
+  font-size: 2.5mm; color: #A2A29C;
+  border-top: 0.4pt solid #E0E0DA; padding-top: 1.4mm;
+}
+
+.sec-t {
+  font-size: 3.3mm; font-weight: 600; color: var(--accent);
+  margin-bottom: 2.6mm; display: flex; align-items: baseline; gap: 2mm;
+}
+.sec-t em { font-style: normal; font-size: 2.5mm; font-weight: 400; color: #8A8A85; }
+.sec-t .legend { margin-left: auto; font-size: 2.4mm; font-weight: 400; color: #9A9A95; }
+
+.item { break-inside: avoid; page-break-inside: avoid; }
+
+.cols { display: flex; flex-wrap: wrap; column-gap: 6mm; }
+.cols > .item { width: calc(50% - 3mm); }
+
+.l1, .l2, .recall-q { display: flex; align-items: baseline; gap: 1.4mm; }
+.l1 { height: 4.9mm; flex-wrap: nowrap; overflow: hidden; }
+.l2 { min-height: 4.0mm; flex-wrap: wrap; line-height: 4.0mm; }
+.recall-q { height: 4.8mm; }
+
+.no { font-size: 2.6mm; color: #B0B0AA; font-family: ui-monospace, Menlo, monospace; }
+.hw { font-size: 3.9mm; font-weight: 600; }
+.pos { font-size: 2.7mm; color: var(--ink3); }
+.cn1 { font-size: 3.0mm; color: var(--ink2); font-weight: 500; }
+.cn2 { font-size: 2.9mm; color: var(--ink2); }
+.ph { font-size: 3.0mm; color: var(--accent); font-weight: 600;
+      font-family: var(--hand); }
+.note { font-size: 2.5mm; color: #8A8A85; }
+.prompt { font-size: 3.0mm; color: var(--ink2); font-weight: 500; }
+.hint { font-size: 2.6mm; color: #9A9A95; font-family: ui-monospace, Menlo, monospace; }
+.grow { flex: 1; }
+.chk { display: flex; gap: 1.4mm; }
+.chk i { display: block; width: 2.6mm; height: 2.6mm; border: 0.4pt solid #B9B9B3; }
+
+.plabel { font-size: 2.7mm; font-weight: 600; color: var(--accent);
+          margin-bottom: 1.2mm; }
+.grid + .plabel { margin-top: 3.2mm; }
+.phead2 { font-size: 3.0mm; font-weight: 600; color: var(--ink2);
+          height: 5.0mm; line-height: 5.0mm; }
+
+.grid { border-bottom: 0.35pt solid var(--line); }
+.row {
+  position: relative; height: var(--rh, 8mm);
+  border-top: 0.35pt solid var(--line);
+  display: flex; align-items: baseline; overflow: hidden;
+}
+.row::before {
+  content: ""; position: absolute; left: 0; right: 0; top: 33.333%;
+  border-top: 0.35pt solid var(--line);
+}
+.row::after {
+  content: ""; position: absolute; left: 0; right: 0; top: 66.667%;
+  border-top: 0.6pt solid var(--base);
+}
+.sp { display: inline-block; width: 0; height: var(--bh, 5.34mm); }
+.txt {
+  padding-left: 2.5mm; white-space: pre;
+  font-family: var(--hand); color: var(--ink);
+}
+.row.tr .txt { color: var(--trace); }
+
+.guide h1 { font-size: 6mm; font-weight: 600; margin-top: 6mm; }
+.guide .sub { font-size: 3mm; color: #7C7C76; margin-top: 2mm; }
+.guide h2 { font-size: 3.6mm; font-weight: 600; color: var(--accent); margin: 7mm 0 3mm; }
+.guide p { font-size: 3mm; line-height: 1.9; color: var(--ink2); }
+.guide ul { padding-left: 5mm; margin-top: 1mm; }
+.guide li { font-size: 3mm; line-height: 1.9; color: var(--ink2); }
+.guide .steps { display: flex; gap: 3mm; margin: 3mm 0 1mm; }
+.guide .step { flex: 1; border: 0.5pt solid #D8D8D2; padding: 3mm; }
+.guide .step b { display: block; font-size: 3.2mm; color: var(--accent); margin-bottom: 1.5mm; }
+.guide .step span { display: block; font-size: 2.6mm; color: var(--ink3); line-height: 1.75; }
+.guide .demo { margin-top: 8mm; }
+table.log { width: 100%; border-collapse: collapse; margin-top: 3mm; }
+table.log th, table.log td {
+  border: 0.4pt solid #C4C4BE; height: 7.5mm;
+  text-align: center; font-size: 2.8mm;
+}
+table.log th { background: #F4F4F0; font-weight: 600; }
+</style></head><body>
+<section class="page guide">
+  <div class="phead">
+    <div class="ph-l"><b>Unit 1 Teenage Life</b><span>人教版 高中英语 必修第一册　·　示例版 · 词汇 + 短语例句 + 描红短文</span></div>
+    <div class="ph-r">姓名 __________　　班级 __________</div>
+  </div>
+
+  <h1>怎么用这份字帖</h1>
+  <p class="sub">一整份约 <b>22 分钟</b>一次写完。练字只是载体，目标是「字形 + 拼写 + 搭配」一起记住。</p>
+
+  <h2>一、三段式，一段都不能跳</h2>
+  <div class="steps">
+    <div class="step"><b>① 描红</b><span>照着灰色范字描。慢，看清楚每个字母占哪几格：上伸字母顶到第一线，x 高度字母占满中格，下伸字母落到第四线。</span></div>
+    <div class="step"><b>② 临写</b><span>空格里自己写，写完回头和上一行比一比，看哪个字母歪了、哪个格子没占满。</span></div>
+    <div class="step"><b>③ 默写</b><span>翻到最后的「默写自检」，只看中文提示写出来。写不出来的，当场回前面重新描一遍。</span></div>
+  </div>
+
+  <h2>二、右侧三个小方框是自检，不是装饰</h2>
+  <ul>
+    <li><b>拼写</b>：合上本子能默写出来，才打勾。</li>
+    <li><b>释义</b>：看到英文能立刻说出中文，且能说清词性。</li>
+    <li><b>搭配</b>：能说出它的固定伙伴（比如 responsible 后面一定跟 for）。</li>
+  </ul>
+  <p>三个都勾上才算过。只勾前两个的，第二天优先重写。</p>
+
+  <h2>三、节奏</h2>
+  <ul>
+    <li>一整份 22 分钟一次写完，中间不刷手机、不翻书。</li>
+    <li>同一份隔 2 天、再隔 7 天各回来一次，比连写十遍管用得多。</li>
+    <li>短文板块先整段描红、再整段临写，注意词与词之间的间距，别连成一团。</li>
+  </ul>
+
+  <h2>四、练习记录</h2>
+  <table class="log">
+    <tr><th>轮次</th><th>日期</th><th>用时</th><th>拼写过关</th><th>释义过关</th><th>搭配过关</th><th>需重做</th></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  </table>
+
+  <div class="demo">
+    <div class="sec-t">范字示意<em>第一线 / 第二线 / 基线（深色）/ 第四线</em></div>
+    <div class="grid" style="--rh:9.00mm;--bh:6.00mm">
+      <div class="row tr"><i class="sp"></i><span class="txt" style="font-size:5.60mm">challenge　fluent　responsible</span></div>
+      <div class="row"><i class="sp"></i></div>
+    </div>
+  </div>
+
+  <div class="pfoot"><span>Unit 1 Teenage Life · 字帖示例</span><span>第 1 页 / 共 5 页</span></div>
+</section>
+<section class="page"><div class="phead"><div class="ph-l"><b>Unit 1 Teenage Life</b><span>人教版 高中英语 必修第一册　·　示例版 · 词汇 + 短语例句 + 描红短文</span></div><div class="ph-r">第 ______ 轮　　日期 __________　　自评 ______</div></div><div class="sec-t">A　核心词汇<em>双栏练习 · 描红 2 遍 + 临写 2 遍　·　约 5 分钟</em><span class="legend">□ 拼写　□ 释义　□ 搭配</span></div><div class="cols"><div class="item"><div class="l1"><span class="no">01</span><span class="hw">challenge</span><span class="pos">n. / vt.</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="cn2">挑战；质疑</span><span class="note">face a challenge 面临挑战</span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:5.40mm">challenge     challenge</span></div><div class="row "><i class="sp"></i></div><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="l1"><span class="no">02</span><span class="hw">recommend</span><span class="pos">vt.</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="cn2">建议；推荐</span><span class="note">recommend (doing) sth 建议做某事</span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:5.40mm">recommend     recommend</span></div><div class="row "><i class="sp"></i></div><div class="row "><i class="sp"></i></div></div></div></div><div class="cols"><div class="item"><div class="l1"><span class="no">03</span><span class="hw">prefer</span><span class="pos">vt.</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="cn2">更喜欢；偏好</span><span class="note">prefer A to B 喜欢 A 胜过 B</span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:5.40mm">prefer A to B     prefer A to B</span></div><div class="row "><i class="sp"></i></div><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="l1"><span class="no">04</span><span class="hw">confuse</span><span class="pos">vt.</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="cn2">使迷惑；使混淆</span><span class="note">confusing 修饰物；confused 修饰人</span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:5.40mm">confuse     confuse</span></div><div class="row "><i class="sp"></i></div><div class="row "><i class="sp"></i></div></div></div></div><div class="cols"><div class="item"><div class="l1"><span class="no">05</span><span class="hw">quit</span><span class="pos">v. quit/quit</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="cn2">停止；放弃；退出</span><span class="note">quit doing sth 放弃做某事</span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:5.40mm">quit     quit</span></div><div class="row "><i class="sp"></i></div><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="l1"><span class="no">06</span><span class="hw">fluent</span><span class="pos">adj.</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="cn2">流利的；流畅的</span><span class="note">be fluent in 通晓（某种语言）</span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:5.40mm">fluent     fluent</span></div><div class="row "><i class="sp"></i></div><div class="row "><i class="sp"></i></div></div></div></div><div class="cols"><div class="item"><div class="l1"><span class="no">07</span><span class="hw">graduate</span><span class="pos">vi. / n.</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="cn2">毕业；毕业生</span><span class="note">graduate from 从……毕业</span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:5.40mm">graduate     graduate</span></div><div class="row "><i class="sp"></i></div><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="l1"><span class="no">08</span><span class="hw">improve</span><span class="pos">vi. / vt.</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="cn2">改进；改善</span><span class="note">improve on sth 在某事上改进</span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:5.40mm">improve     improve</span></div><div class="row "><i class="sp"></i></div><div class="row "><i class="sp"></i></div></div></div></div><div class="cols"><div class="item"><div class="l1"><span class="no">09</span><span class="hw">responsible</span><span class="pos">adj.</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="cn2">有责任的；负责的</span><span class="note">be responsible for 对……负责</span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:5.40mm">responsible     responsible</span></div><div class="row "><i class="sp"></i></div><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="l1"><span class="no">10</span><span class="hw">concentrate</span><span class="pos">vi. / vt.</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="cn2">集中（注意力）</span><span class="note">concentrate on 专注于</span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:5.40mm">concentrate     concentrate</span></div><div class="row "><i class="sp"></i></div><div class="row "><i class="sp"></i></div></div></div></div><div class="sec-t">B　短语与例句<em>描整句，说明行给出短语与搭配　·　约 6 分钟</em><span class="legend">□ 拼写　□ 释义　□ 搭配</span></div><div class="item"><div class="l1"><span class="no">01</span><span class="cn1">报名（参加）</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="ph">sign up (for sth)</span><span class="note">sign up for a course　后接名词或动名词</span></div><div class="grid" style="--rh:9.00mm;--bh:6.00mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:4.40mm">I should sign up for advanced literature.</span></div><div class="row "><i class="sp"></i></div></div></div><div class="pfoot"><span>Unit 1 Teenage Life · 字帖示例</span><span>第 2 页 / 共 5 页</span></div></section><section class="page"><div class="phead"><div class="ph-l"><b>Unit 1 Teenage Life</b><span>人教版 高中英语 必修第一册　·　示例版 · 词汇 + 短语例句 + 描红短文</span></div><div class="ph-r">第 ______ 轮　　日期 __________　　自评 ______</div></div><div class="sec-t">B　短语与例句（续）<em>描整句，说明行给出短语与搭配　·　约 6 分钟</em><span class="legend">□ 拼写　□ 释义　□ 搭配</span></div><div class="item"><div class="l1"><span class="no">01</span><span class="cn1">擅长</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="ph">be good at (sth / doing)</span><span class="note">be good at it　勿写成 be good in</span></div><div class="grid" style="--rh:9.00mm;--bh:6.00mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:4.40mm">I like English and I&#x27;m good at it.</span></div><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="l1"><span class="no">02</span><span class="cn1">入选（球队）</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="ph">make the team</span><span class="note">make = 成功成为；同类 make friends</span></div><div class="grid" style="--rh:9.00mm;--bh:6.00mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:4.40mm">I&#x27;ll improve so that I can make the team next year.</span></div><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="l1"><span class="no">03</span><span class="cn1">跟上；不落后</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="ph">keep up with</span><span class="note">keep up with sb 跟上某人</span></div><div class="grid" style="--rh:9.00mm;--bh:6.00mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:4.40mm">I&#x27;m a bit worried about keeping up with the other students.</span></div><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="l1"><span class="no">04</span><span class="cn1">习惯于</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="ph">get used to (sth / doing)</span><span class="note">★ to 是介词，后接名词或动名词</span></div><div class="grid" style="--rh:9.00mm;--bh:6.00mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:4.40mm">It&#x27;ll be quite difficult to get used to all the homework.</span></div><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="l1"><span class="no">05</span><span class="cn1">独自；靠自己</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="ph">on one&#x27;s own</span><span class="note">improve on my own　区别 of one&#x27;s own（自己的）</span></div><div class="grid" style="--rh:9.00mm;--bh:6.00mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:4.40mm">I&#x27;ll find a way to improve on my own.</span></div><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="l1"><span class="no">06</span><span class="cn1">集中（注意力）于</span><span class="grow"></span><span class="chk"><i></i><i></i><i></i></span></div><div class="l2"><span class="ph">focus on / concentrate on</span><span class="note">★ 后接名词或动名词</span></div><div class="grid" style="--rh:9.00mm;--bh:6.00mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:4.40mm">Spending too much time online makes it difficult to focus on other things.</span></div><div class="row "><i class="sp"></i></div></div></div><div class="pfoot"><span>Unit 1 Teenage Life · 字帖示例</span><span>第 3 页 / 共 5 页</span></div></section><section class="page"><div class="phead"><div class="ph-l"><b>Unit 1 Teenage Life</b><span>人教版 高中英语 必修第一册　·　示例版 · 词汇 + 短语例句 + 描红短文</span></div><div class="ph-r">第 ______ 轮　　日期 __________　　自评 ______</div></div><div class="sec-t">C　描红短文<em>先整段描红，再整段临写　·　约 9 分钟</em></div><div class="item"><div class="phead2">The Freshman Challenge（课文节选）</div><div class="plabel">① 描红</div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:4.40mm">Hi! My name is Adam and I&#x27;m a freshman at senior high school. Going from junior</span></div><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:4.40mm">high school to senior high school is a really big challenge. The first week was a</span></div><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:4.40mm">little confusing. I had to think very carefully about which courses to take. My</span></div><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:4.40mm">adviser recommended that I should sign up for advanced literature, because I</span></div><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:4.40mm">like English and I&#x27;m good at it.</span></div></div><div class="plabel">② 临写</div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row "><i class="sp"></i></div><div class="row "><i class="sp"></i></div><div class="row "><i class="sp"></i></div><div class="row "><i class="sp"></i></div><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="phead2">Letter of Advice（建议信节选）</div><div class="plabel">① 描红</div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:4.40mm">I understand quite well that you are anxious. I recommend that you talk to your</span></div><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:4.40mm">friend about his behaviour. Spending too much time online makes it difficult to</span></div><div class="row tr"><i class="sp"></i><span class="txt" style="font-size:4.40mm">focus on other things.</span></div></div><div class="plabel">② 临写</div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row "><i class="sp"></i></div><div class="row "><i class="sp"></i></div><div class="row "><i class="sp"></i></div></div></div><div class="sec-t">D　默写自检<em>只看中文提示，写出完整英文　·　约 2 分钟</em></div><div class="item"><div class="recall-q"><span class="no">01</span><span class="prompt">挑战；质疑（n. / vt.）</span><span class="hint">c _ _ _ _ _ _ _ _</span><span class="grow"></span><span class="chk"><i></i></span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="recall-q"><span class="no">02</span><span class="prompt">建议；推荐（vt.）</span><span class="hint">r _ _ _ _ _ _ _ _</span><span class="grow"></span><span class="chk"><i></i></span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="recall-q"><span class="no">03</span><span class="prompt">更喜欢；偏好（vt.）</span><span class="hint">p _ _ _ _ _</span><span class="grow"></span><span class="chk"><i></i></span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row "><i class="sp"></i></div></div></div><div class="pfoot"><span>Unit 1 Teenage Life · 字帖示例</span><span>第 4 页 / 共 5 页</span></div></section><section class="page"><div class="phead"><div class="ph-l"><b>Unit 1 Teenage Life</b><span>人教版 高中英语 必修第一册　·　示例版 · 词汇 + 短语例句 + 描红短文</span></div><div class="ph-r">第 ______ 轮　　日期 __________　　自评 ______</div></div><div class="sec-t">D　默写自检（续）<em>只看中文提示，写出完整英文　·　约 2 分钟</em></div><div class="item"><div class="recall-q"><span class="no">01</span><span class="prompt">毕业；毕业生（vi. / n.）</span><span class="hint">g _ _ _ _ _ _ _</span><span class="grow"></span><span class="chk"><i></i></span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="recall-q"><span class="no">02</span><span class="prompt">改进；改善（vi. / vt.）</span><span class="hint">i _ _ _ _ _ _</span><span class="grow"></span><span class="chk"><i></i></span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="recall-q"><span class="no">03</span><span class="prompt">习惯于（to 是介词）</span><span class="hint">get ____ ____ sth</span><span class="grow"></span><span class="chk"><i></i></span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="recall-q"><span class="no">04</span><span class="prompt">对……负责</span><span class="hint">be __________ for</span><span class="grow"></span><span class="chk"><i></i></span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row "><i class="sp"></i></div></div></div><div class="item"><div class="recall-q"><span class="no">05</span><span class="prompt">跟上；不落后</span><span class="hint">____ up with</span><span class="grow"></span><span class="chk"><i></i></span></div><div class="grid" style="--rh:8.00mm;--bh:5.33mm"><div class="row "><i class="sp"></i></div></div></div><div class="pfoot"><span>Unit 1 Teenage Life · 字帖示例</span><span>第 5 页 / 共 5 页</span></div></section></body></html>
