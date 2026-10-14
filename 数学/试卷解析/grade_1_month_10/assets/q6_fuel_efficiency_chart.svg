@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="470" viewBox="0 0 760 470">
+<title>第6题燃油效率折线统计图</title>
+<desc>按试卷照片重绘。横轴为速度，纵轴为每升汽油行驶里程；曲线中的点位依照照片近似描绘。</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="#222"/></marker></defs>
+<rect width="760" height="470" fill="white"/>
+<g stroke="#222" stroke-width="1.5" fill="none"><path d="M90 390 H696" marker-end="url(#arrow)"/><path d="M90 390 V34" marker-end="url(#arrow)"/></g>
+<g font-family="Songti SC, SimSun, serif" font-size="18" fill="#222">
+<text x="70" y="417">O</text><text x="278" y="417" text-anchor="middle">40</text><text x="466" y="417" text-anchor="middle">80</text>
+<text x="75" y="283" text-anchor="end">5</text><text x="75" y="171" text-anchor="end">10</text><text x="75" y="58" text-anchor="end">15</text>
+<text x="605" y="422">速度(km/h)</text><text x="100" y="30">燃油效率(km/L)</text></g>
+<g stroke="#222" stroke-width="1.2"><path d="M278 385 V395 M466 385 V395 M85 277.5 H95 M85 165 H95 M85 52.5 H95"/></g>
+<polyline points="113.5,277.5 146.4,187.5 207.5,97.5 254.5,52.5 339.1,75 442.5,165 461.3,120 489.5,131.2 531.8,97.5 635.2,153.8" fill="none" stroke="#444" stroke-width="2" stroke-dasharray="4 5"/>
+<circle cx="113.5" cy="277.5" r="3.8"/>
+<circle cx="146.4" cy="187.5" r="3.8"/>
+<circle cx="207.5" cy="97.5" r="3.8"/>
+<circle cx="254.5" cy="52.5" r="3.8"/>
+<circle cx="339.1" cy="75" r="3.8"/>
+<circle cx="442.5" cy="165" r="3.8"/>
+<circle cx="461.3" cy="120" r="3.8"/>
+<circle cx="489.5" cy="131.2" r="3.8"/>
+<circle cx="531.8" cy="97.5" r="3.8"/>
+<circle cx="635.2" cy="153.8" r="3.8"/>
+<text x="644.2" y="158.8" font-family="Songti SC, SimSun, serif" font-size="18">甲车</text>
+<polyline points="113.5,333.8 155.8,322.5 193.4,277.5 235.7,232.5 273.3,250.5 320.3,250.5 362.6,232.5 400.2,228 437.8,232.5 466,232.5 484.8,243.8 555.3,250.5 630.5,277.5 654,293.2" fill="none" stroke="#444" stroke-width="2"/>
+<rect x="109.7" y="329.9" width="7.6" height="7.6"/>
+<rect x="152" y="318.7" width="7.6" height="7.6"/>
+<rect x="189.6" y="273.7" width="7.6" height="7.6"/>
+<rect x="231.9" y="228.7" width="7.6" height="7.6"/>
+<rect x="269.5" y="246.7" width="7.6" height="7.6"/>
+<rect x="316.5" y="246.7" width="7.6" height="7.6"/>
+<rect x="358.8" y="228.7" width="7.6" height="7.6"/>
+<rect x="396.4" y="224.2" width="7.6" height="7.6"/>
+<rect x="434" y="228.7" width="7.6" height="7.6"/>
+<rect x="462.2" y="228.7" width="7.6" height="7.6"/>
+<rect x="481" y="239.9" width="7.6" height="7.6"/>
+<rect x="551.5" y="246.7" width="7.6" height="7.6"/>
+<rect x="626.7" y="273.7" width="7.6" height="7.6"/>
+<rect x="650.2" y="289.4" width="7.6" height="7.6"/>
+<text x="663" y="298.2" font-family="Songti SC, SimSun, serif" font-size="18">丙车</text>
+<polyline points="122.9,356.2 160.5,345 198.1,318 240.4,311.2 273.3,277.5 320.3,270.8 362.6,266.2 400.2,255 433.1,250.5 466,246 484.8,232.5 513,214.5 560,221.2 630.5,237 654,243.8" fill="none" stroke="#444" stroke-width="2" stroke-dasharray="8 4 2 4"/>
+<path d="M122.9 351.2 l5 9 h-10 z"/>
+<path d="M160.5 340 l5 9 h-10 z"/>
+<path d="M198.1 313 l5 9 h-10 z"/>
+<path d="M240.4 306.2 l5 9 h-10 z"/>
+<path d="M273.3 272.5 l5 9 h-10 z"/>
+<path d="M320.3 265.8 l5 9 h-10 z"/>
+<path d="M362.6 261.2 l5 9 h-10 z"/>
+<path d="M400.2 250 l5 9 h-10 z"/>
+<path d="M433.1 245.5 l5 9 h-10 z"/>
+<path d="M466 241 l5 9 h-10 z"/>
+<path d="M484.8 227.5 l5 9 h-10 z"/>
+<path d="M513 209.5 l5 9 h-10 z"/>
+<path d="M560 216.2 l5 9 h-10 z"/>
+<path d="M630.5 232 l5 9 h-10 z"/>
+<path d="M654 238.8 l5 9 h-10 z"/>
+<text x="663" y="248.8" font-family="Songti SC, SimSun, serif" font-size="18">乙车</text>
+</svg>
